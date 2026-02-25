@@ -1,8 +1,0 @@
-{
-  "theme": "obsidian",
-  "cssTheme": "Material Gruvbox",
-  "textFontFamily": "Cambria",
-  "enabledCssSnippets": [
-    "writing-hud"
-  ]
-}

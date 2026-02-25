@@ -1,24 +1,34 @@
 {
   "main": {
-    "id": "b9c6ea54cf4b161e",
+    "id": "57f836f2df4eb51e",
     "type": "split",
     "children": [
       {
-        "id": "8bb02027e2df3b6c",
+        "id": "d9c3ecf85962be13",
         "type": "tabs",
         "children": [
           {
-            "id": "dfab45881d2b6624",
+            "id": "6e6908f048f2bc69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/01_Maps/Bricks/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+                "file": "content/index.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "基于 Obsidian x Quartz x Git 的网状数字花园搭建指南"
+              "title": "index"
             }
           }
         ]
@@ -27,33 +37,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4bf810c58472a22",
+    "id": "2d84bc74e652960a",
     "type": "split",
     "children": [
       {
-        "id": "2f5015938d7399ee",
+        "id": "f64cc80406d2a770",
         "type": "tabs",
         "children": [
           {
-            "id": "e8bd9470d2eb128b",
+            "id": "4f0186bf89f272a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
             }
           },
           {
-            "id": "b20fc4ece659abfb",
+            "id": "68fde63f85df2b64",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,36 +75,36 @@
             }
           },
           {
-            "id": "5b44abeb3b394a3b",
+            "id": "fee46ef2b8740a70",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "書籤"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "b211ff3e98bd7916",
+    "id": "8429ec4e85488a51",
     "type": "split",
     "children": [
       {
-        "id": "28e0f01f1f09e280",
+        "id": "362b333850a59761",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd7ff6eccd59ea6",
+            "id": "eca6d749a8e04cab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
+                "file": "02- Areas/Daily Notes/2026-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "🎭Character Sheet-The Player 的反向連結"
+              "title": "2026-01-12 的反向連結"
             }
           },
           {
-            "id": "ac34ce2e719d14f6",
+            "id": "3b17d2399c30ce94",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
-                "linksCollapsed": false,
+                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "🎭Character Sheet-The Player 的對外連結"
+              "title": "2026-01-12 的對外連結"
             }
           },
           {
-            "id": "d5a11d51671cd847",
+            "id": "a66d713e0f361171",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,13 +147,13 @@
             }
           },
           {
-            "id": "4a09133c9819f797",
+            "id": "7a27a801b5ab5fde",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -151,21 +161,92 @@
             }
           },
           {
-            "id": "3f7ccf3c07980219",
+            "id": "885665953be2ecd8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
-                "followCursor": false,
+                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🎭Character Sheet-The Player 的大綱"
+              "title": "2026-01-12 的大綱"
+            }
+          },
+          {
+            "id": "ac362bfabb62290b",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "955ddd16b184ed86",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "ae74cea750202443",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "277899542b3930d6",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "2af6f86969af9b2d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "05353e3e711fce91",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "e2899336bbe9d201",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -178,17 +259,68 @@
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false
+      "zk-prefixer:建立新唯一筆記": false,
+      "templates:插入模板": false,
+      "random-note:開始漫遊筆記": false,
+      "bases:建立新的 base": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "publish:發佈變動內容": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfab45881d2b6624",
+  "active": "6e6908f048f2bc69",
   "lastOpenFiles": [
-    "public/Studere-Knowledge-Base/Asserts/Pasted-image-20260219201554.png",
+    "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
+    "README.md",
     "CODE_OF_CONDUCT.md",
-    "node_modules/@citation-js/date/README.md",
     "content/04_Journal/2026/2/2026-02-26.md",
-    "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md"
+    "content/04_Journal/2026/2/2026-02-25.md",
+    "04_Journal/2026/2/2026-02-26.md",
+    "North Star Terminal.md",
+    "04_Journal/2026/2/2026-02-25.md",
+    "Essays.md",
+    "00_System/Prompt Zone/🐱‍💻Cognitive Architect v10.1 (The Curator Edition).md",
+    "index.md",
+    "99_Archive/Token-Git.md",
+    "04_Journal/2026/2/2026-02-22.md",
+    "01_Maps/Bricks/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+    "01_Maps/Bricks/01-为什么我们需要OB+GIT+静态网站.md",
+    "00_System/📂 Protocols/00-Philosophy.md",
+    "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
+    "01_Maps/渐进式语言教材-英文.md",
+    "01_Maps/The Bradbury Quartet.md",
+    "04_Journal/2026/2/2026-02-20.md",
+    "99_Archive/Final/Intro.md",
+    "99_Archive/Final/MVP1.0.md",
+    "99_Archive/Final/最终成品.md",
+    "01_Maps/OF PROUST.md",
+    "00_System/Prompt Zone/逆向工程建构--反推.md",
+    "00_System/Prompt Zone/布拉德雷四重奏.md",
+    "01_Maps/Active_Projects",
+    "公理",
+    "Asserts/Pasted image 20260219201554.png",
+    "03_Essays",
+    "Asserts/Drafts-Marterials",
+    "Asserts",
+    "02_Active_Projects",
+    "01_Maps/Cathedral/OF PROUST",
+    "04_Journal/2026/2",
+    "index",
+    "prompts-PROUST.json",
+    "Pasted image 20260129012044.png",
+    "Pasted image 20260128231617.png",
+    "Pasted image 20260128231609.png",
+    "99_Archive/Final/未命名.canvas",
+    "Pasted image 20260125231041.png",
+    "Pasted image 20260125224109.png",
+    "Pasted image 20260124011611.png",
+    "Pasted image 20260124010518.png",
+    "03-Resources/Brain Storm.canvas",
+    "Untitled.canvas",
+    "61df15ba79c0f25a40fe7a22d474ba2c.png"
   ]
 }
