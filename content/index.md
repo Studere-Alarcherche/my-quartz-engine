@@ -1,15 +1,19 @@
----
-title: Alarcherche"
----
-
-
-> _“Transmute Information Noise into Structural Signal.”_ 将信息噪音转化为结构化信号。
+# 👁️ proustan&Alarcherche
 
   
-欢迎来到我的世界。一切概念均通过双向链接相互交织，自然涌现。这里不生产AI吐出的完美知识，一切均系绑于个人。我想做好看的物事，做好看的普鲁斯特，学好听的法语、日语和西班牙语，然后自由自在地活很久很久。
+> [!quote] Les Échasses
+> "... si elle (la force) me serait laissée assez longtemps pour accomplir mon œuvre, je ne manquerais pas d'y décrire les hommes, dût cela les faire ressembler à des êtres monstrueux, comme occupant une place si considerable, à côté de celle qui leur est réservée dans l'espace, une place au contraire prolongée sans mesure puisqu'ils touchent simultanément, comme des géants plongés dans les années, à des époques si lointaines, vécues par eux, entre lesquelles tant de jours sont venus se placer — **dans le Temps**."
+> 
+> ---
+>
 
-  
+>[!quote] C. K. Scott Moncrieff
+> "... if strength were granted me for long enough to accomplish my work, I should not fail, even though it should make them seem like monsters, to describe men as occupying so considerable a place, compared with the restricted place which is reserved for them in space, a place on the contrary prolonged past measure, for they touch simultaneously, like giants plunged into the years, then distant epochs through which they have lived, between which so many days have come to range themselves — **in Time**."
 
+
+  > [!quote] 周克希/李恒基
+  >
+>  "“……如果我有足够长的时间来完成我的作品，我必将在其中描述那些人，哪怕这会使他们显得像是怪物。在空间中，他们占据的地方终究有限，但在时间中，他们却占据了一个硕大无朋、无限延续的地位，因为他们像浸沉在岁月里的巨人，同时触及那些彼此相隔甚远、在他们的一生中经历过的时代——**在时间之中**。” >"
 ---
 
   
@@ -45,13 +49,10 @@ title: Alarcherche"
 
   
 
-- [渐进式语言教材-英文]
-
-  
+- [[渐进式语言教材-英文]]
 
 ### ⚔️ 行动中枢 (The Command Center)
 
-  
 
 > 记录时长 更新Active Projects
 
@@ -71,3 +72,4 @@ title: Alarcherche"
 
 
 * **[[Essays|阅读近期文章 (Read the Blog) ➔]]**
+* 
