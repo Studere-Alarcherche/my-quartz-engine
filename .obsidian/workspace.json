@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node_modules/@citation-js/date/README.md",
+                "file": "content/01_Maps/Bricks/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "基于 Obsidian x Quartz x Git 的网状数字花园搭建指南"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "dfab45881d2b6624",
   "lastOpenFiles": [
+    "public/Studere-Knowledge-Base/Asserts/Pasted-image-20260219201554.png",
+    "CODE_OF_CONDUCT.md",
+    "node_modules/@citation-js/date/README.md",
     "content/04_Journal/2026/2/2026-02-26.md",
     "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md"
   ]
