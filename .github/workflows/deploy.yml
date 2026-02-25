@@ -2,7 +2,7 @@ name: Deploy Quartz
 on:
   push:
     branches:
-      - main  # 确保这和你本地显示的分支名一致
+      - main  
 
 permissions:
   contents: write
