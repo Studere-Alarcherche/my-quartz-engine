@@ -1,6 +1,6 @@
 ---
-title: Proustian 首页
-url: "https://studere-alarcherche.github.io/Proustian/"
+title: Proustian
+url: https://studere-alarcherche.github.io/Proustian/
 ---
 > [!quote] Les Échasses
 > "... si elle (la force) me serait laissée assez longtemps pour accomplir mon œuvre, je ne manquerais pas d'y décrire les hommes, dût cela les faire ressembler à des êtres monstrueux, comme occupant une place si considerable, à côté de celle qui leur est réservée dans l'espace, une place au contraire prolongée sans mesure puisqu'ils touchent simultanément, comme des géants plongés dans les années, à des époques si lointaines, vécues par eux, entre lesquelles tant de jours sont venus se placer — **dans le Temps**."
