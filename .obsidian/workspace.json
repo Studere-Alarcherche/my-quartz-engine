@@ -45,7 +45,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +287,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e6908f048f2bc69",
+  "active": "9818497c894d7050",
   "lastOpenFiles": [
     "content/index.md",
     "Pasted image 20260226011610.png",
