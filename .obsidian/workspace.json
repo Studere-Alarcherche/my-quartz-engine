@@ -30,6 +30,20 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "9818497c894d7050",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://studere-alarcherche.github.io/Proustian/",
+                "title": "index",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "index"
+            }
           }
         ]
       }
@@ -274,6 +288,7 @@
   },
   "active": "6e6908f048f2bc69",
   "lastOpenFiles": [
+    "content/index.md",
     "Pasted image 20260226011610.png",
     "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
     "README.md",
