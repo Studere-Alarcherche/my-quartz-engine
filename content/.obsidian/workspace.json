@@ -11,10 +11,24 @@
             "id": "92825f4436abfef6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04_Journal/2026/2/2026-02-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "2026-02-26"
             }
           }
         ]
@@ -259,6 +273,17 @@
   },
   "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "04_Journal/2026-02-26.md",
+    "04_Journal/2026/2/2026-02-26.md",
+    "99_Archive/Final/MVP1.0.md",
+    "99_Archive/Final/Intro.md",
+    "99_Archive/Final/最终成品.md",
+    "01_Maps/渐进式语言教材-英文.md",
+    "01_Maps/OF PROUST.md",
+    "01_Maps/The Bradbury Quartet.md",
+    "00_System/Life OS 岁时记.md",
+    "Studere-Knowledge-Base/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
+    "Studere-Knowledge-Base/00_System/Life OS 岁时记.md",
     "Pasted image 20260226011610.png",
     "content/index.md",
     "content/04_Journal/2026/2/2026-02-26.md",
@@ -266,7 +291,6 @@
     "README.md",
     "CODE_OF_CONDUCT.md",
     "content/04_Journal/2026/2/2026-02-25.md",
-    "04_Journal/2026/2/2026-02-26.md",
     "North Star Terminal.md",
     "04_Journal/2026/2/2026-02-25.md",
     "Essays.md",
@@ -276,15 +300,6 @@
     "04_Journal/2026/2/2026-02-22.md",
     "01_Maps/Bricks/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
     "01_Maps/Bricks/01-为什么我们需要OB+GIT+静态网站.md",
-    "00_System/📂 Protocols/00-Philosophy.md",
-    "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
-    "01_Maps/渐进式语言教材-英文.md",
-    "01_Maps/The Bradbury Quartet.md",
-    "04_Journal/2026/2/2026-02-20.md",
-    "99_Archive/Final/Intro.md",
-    "99_Archive/Final/MVP1.0.md",
-    "99_Archive/Final/最终成品.md",
-    "01_Maps/OF PROUST.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",
