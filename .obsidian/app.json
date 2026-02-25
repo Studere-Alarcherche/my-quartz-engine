@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "quartz/",
+    "node_modules",
+    "public",
+    ".github"
+  ]
+}

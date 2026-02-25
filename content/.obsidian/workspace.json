@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "North Star Terminal.md",
+                "file": "04_Journal/2026/2/2026-02-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "North Star Terminal"
+              "title": "2026-02-26"
             }
           }
         ]
@@ -274,10 +274,11 @@
   "active": "6e6908f048f2bc69",
   "lastOpenFiles": [
     "04_Journal/2026/2/2026-02-25.md",
+    "04_Journal/2026/2/2026-02-26.md",
+    "North Star Terminal.md",
     "Essays.md",
     "00_System/Prompt Zone/🐱‍💻Cognitive Architect v10.1 (The Curator Edition).md",
     "index.md",
-    "North Star Terminal.md",
     "99_Archive/Token-Git.md",
     "04_Journal/2026/2/2026-02-22.md",
     "01_Maps/Bricks/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
@@ -298,7 +299,6 @@
     "00_System/📂 Legacy_Inbox/🌟Level 100- The Cognitive Athlete.md",
     "Index.md",
     "00_System/Prompt Zone/网页发布元数据生成助手.md",
-    "00_System/Prompt Zone/SYNTAX.BOOK 句法教材PROMPT.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",
