@@ -41,18 +41,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(), // 这里要有逗号
+    Component.Graph(),
     Component.RecentNotes({
       title: "✦ 行进中的星座",
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
-    }), // 这里的大括号后面一定要有逗号
-    Component.DesktopOnly(Component.TableOfContents()), // 这里也要有逗号
+    }),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-  ], // 整个数组结束的中括号
+  ],
+} // <--- 关键点：这个大括号之前被漏掉了，它负责关闭 defaultContentPageLayout
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
