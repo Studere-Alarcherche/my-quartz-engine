@@ -13,13 +13,26 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "quartz/static/proust-logo.png.jpg"
+                "file": "quartz/static/icon.png"
               },
               "icon": "lucide-image",
-              "title": "proust-logo.png"
+              "title": "icon"
+            }
+          },
+          {
+            "id": "d5a8f9e4693bcb11",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "quartz/static/proust-logo.png"
+              },
+              "icon": "lucide-image",
+              "title": "proust-logo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,10 +292,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92825f4436abfef6",
+  "active": "d5a8f9e4693bcb11",
   "lastOpenFiles": [
-    "quartz/static/og-image.png",
     "quartz/static/icon.png",
+    "conflict-files-obsidian-git.md",
+    "quartz/static/proust-logo.png",
+    "quartz/static/og-image.png",
     "quartz/static/proust-logo.png.jpg",
     "content/index.md",
     "content/North Star Terminal.md",
@@ -309,7 +324,6 @@
     "04_Journal/2026/2/2026-02-25.md",
     "Essays.md",
     "00_System/Prompt Zone/🐱‍💻Cognitive Architect v10.1 (The Curator Edition).md",
-    "99_Archive/Token-Git.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",
@@ -326,8 +340,6 @@
     "Pasted image 20260128231609.png",
     "99_Archive/Final/未命名.canvas",
     "Pasted image 20260125231041.png",
-    "Pasted image 20260125224109.png",
-    "Pasted image 20260124011611.png",
     "03-Resources/Brain Storm.canvas",
     "Untitled.canvas"
   ]

@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: "plausible" },
     locale: "zh-CN",
-    baseUrl: "studere-alarcherche.github.io/Studere-Knowledge-Base",
+    baseUrl: "studere-alarcherche.github.io/Proustian",
     ignorePatterns: ["private", "templates", ".obsidian", "00_System", "04_Journal", "99_Archive"],
     defaultDateType: "created",
     theme: {
