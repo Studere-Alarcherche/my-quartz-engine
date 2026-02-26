@@ -229,23 +229,13 @@
             }
           },
           {
-            "id": "2af6f86969af9b2d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "05353e3e711fce91",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -304,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2af6f86969af9b2d",
+  "active": "05353e3e711fce91",
   "lastOpenFiles": [
     "content/00_System/North Star Terminal.md",
     "content/00_System/📂 Templates/PBL.md",
