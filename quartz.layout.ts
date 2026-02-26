@@ -41,13 +41,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // 1. 关系图谱：展示笔记之间的网状链接
     Component.Graph(), 
-
-    // 2. 活跃星座（核心定制组件）：
-    // 利用 RecentNotes 组件，配合自定义过滤器实现“项目卡片”效果
     Component.RecentNotes({
-      title: "✦ 行进中的星座", // 侧边栏显示的标题
+      title: "✦ 行进中的星座",
+      limit: 4,
+      filter: (f) => f.frontmatter?.status === "active",
+      sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
+    }), // <--- 这里必须有逗号
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
       limit: 4,              // 限制显示数量，避免侧边栏过长
       // 过滤器逻辑：只有 Frontmatter 中 status 属性为 "active" 的笔记才会被抓取
       filter: (f) => f.frontmatter?.status === "active", 
