@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "04_Journal/2026-02-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-02-26"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "Files"
             }
           },
           {
@@ -191,8 +191,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -201,8 +201,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -241,6 +241,16 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "f14d2e641140e8ab",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
@@ -254,17 +264,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "command-palette:開啟命令面板": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "templates:插入模板": false,
-      "random-note:開始漫遊筆記": false,
-      "bases:建立新的 base": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "publish:發佈變動內容": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
@@ -273,6 +283,7 @@
   },
   "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "index.md",
     "04_Journal/2026-02-26.md",
     "04_Journal/2026/2/2026-02-26.md",
     "99_Archive/Final/MVP1.0.md",
@@ -295,7 +306,6 @@
     "04_Journal/2026/2/2026-02-25.md",
     "Essays.md",
     "00_System/Prompt Zone/🐱‍💻Cognitive Architect v10.1 (The Curator Edition).md",
-    "index.md",
     "99_Archive/Token-Git.md",
     "04_Journal/2026/2/2026-02-22.md",
     "01_Maps/Bricks/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
