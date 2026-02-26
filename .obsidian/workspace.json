@@ -11,24 +11,12 @@
             "id": "92825f4436abfef6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "quartz/static/proust-logo.png.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "proust-logo.png"
             }
           }
         ]
@@ -293,6 +281,10 @@
   },
   "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "quartz/static/proust-logo.png.jpg",
+    "content/index.md",
     "content/North Star Terminal.md",
     "content/00_System/📂 Protocols/00-Philosophy.md",
     "index.md",
@@ -308,7 +300,6 @@
     "Studere-Knowledge-Base/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
     "Studere-Knowledge-Base/00_System/Life OS 岁时记.md",
     "Pasted image 20260226011610.png",
-    "content/index.md",
     "content/04_Journal/2026/2/2026-02-26.md",
     "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
     "README.md",
@@ -319,7 +310,6 @@
     "Essays.md",
     "00_System/Prompt Zone/🐱‍💻Cognitive Architect v10.1 (The Curator Edition).md",
     "99_Archive/Token-Git.md",
-    "04_Journal/2026/2/2026-02-22.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",
@@ -338,9 +328,7 @@
     "Pasted image 20260125231041.png",
     "Pasted image 20260125224109.png",
     "Pasted image 20260124011611.png",
-    "Pasted image 20260124010518.png",
     "03-Resources/Brain Storm.canvas",
-    "Untitled.canvas",
-    "61df15ba79c0f25a40fe7a22d474ba2c.png"
+    "Untitled.canvas"
   ]
 }
