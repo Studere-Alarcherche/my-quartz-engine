@@ -42,4 +42,4 @@ In short, in this case as in the other, whether it be a question of impressions 
 - Emotional Tone: Epiphanic, solemn, resolved, intellectualized ecstasy
 ---
 # Close Reading Series 
-## [[The Vocabulary]]
+## 01-[[PRS01-Vocab]]

@@ -1,20 +1,19 @@
 ---
-title: "The Vocabulary of Necessity: 普鲁斯特的服从语法"
-date: 2026-02-09
+title: "The Vocabulary of Necessity: 普鲁斯特译本词法解构"
+aliases:
+  - 普鲁斯特的服从语法, 必然性词簇, Vocabulary
+date: 2026-02-26T02:28:00
 target: 揭示艺术作为一种‘必然性翻译’的本体论约束，而非自由意志的产物
-area: Area/Literature/Cognitive_Poetics
+area: Area/Literature/Intensive_Reading
 tags:
-  - Proust
-  - Translation_as_Creation
-  - Lexical_Regime
-duration: 15min
-type: essay
+  - proust
+  - Translation
+  - Necessity
+  - Deciphering
+duration: 30min
+type: intensive-reading
 pathosformel: “艺术开始于自由终结之处：一种受难式的、被迫的翻译状态。”
 ---
-```
-
-### 第二部分：极简排版正文
-
 ## The Vocabulary of Necessity
 
 Phase 2-I.a — Constraint Vocabulary
@@ -47,15 +46,6 @@ Focus: **Lexical items functioning as structural load-bearing pillars**
 - **Semantic Overdetermination:** The metaphor aligns art with Egyptology: hieroglyphs whose truth is locked inside stone. The taste of the madeleine, the uneven paving-stones, the steeples — these are not symbols but **encrypted containers**.
     
 - **Structural Law: The Law of Resistance.** Meaning is never given. It must be extracted through **intellectual torque**, and the pain of extraction authenticates the truth. What is immediately legible belongs to “intelligence,” not to art.
-    
-
----
-
-> **Johann Sebastian Bach**
-> 
-> Manuscript page from _The Well-Tempered Clavier_
-> 
-> _Staatsbibliothek zu Berlin_
 
 ---
 
@@ -148,4 +138,3 @@ This vocabulary does not argue against freedom; it renders freedom irrelevant. W
 
 ---
 
-这份关于普鲁斯特词蹙的深度解剖已完成“流体标定”。需要我为你针对这 7 个核心词，进一步展开某种更具体的、跨学科的联觉讨论吗？
