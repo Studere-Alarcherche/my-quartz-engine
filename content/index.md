@@ -36,9 +36,9 @@ url: https://studere-alarcherche.github.io/Proustian/
   </div>
 
   <div class="constellation-item">
-    <div class="constellation-label">✦ 认知基石 / THE FOUNDATION</div>
+    <div class="constellation-label">✦ 巴别塔 / THE FOUNDATION</div>
     <h2><a href="/English-Textbook">渐进式语言教材 - 英文</a></h2>
-    <p class="constellation-desc">跨越巴别塔的词源学与文本细读法。不求速成，只求勘破。</p>
+    <p class="constellation-desc">尝试自制教材</p>
   </div>
 
 </div>

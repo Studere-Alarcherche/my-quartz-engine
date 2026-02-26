@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/Bricks/Literature/INTRO&P.md",
+                "file": "Eassays/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "INTRO&P"
+              "title": "index"
             }
           }
         ]
@@ -283,24 +283,26 @@
   },
   "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+    "Eassays/index.md",
+    "Essays.md",
+    "Eassays",
+    "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",
+    "index.md",
+    "01_Maps/OF PROUST.md",
+    "04_Journal/2026-02-26.md",
     "01_Maps/Bricks/Literature/切片01-The Task of a Translator.md",
     "99_Archive/Final/最终成品.md",
     "01_Maps/渐进式语言教材-英文.md",
     "01_Maps/Bricks/Intro.md",
-    "04_Journal/2026-02-26.md",
     "Asserts/proust-logo.png.jpg",
-    "index.md",
     "North Star Terminal.md",
     "01_Maps/Bricks/Character Sheet-The Player.md",
-    "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",
-    "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
     "01_Maps/Bricks/Tech",
     "01_Maps/Bricks/Literature/PRS01-Vocab.md",
     "01_Maps/Bricks/Literature",
-    "01_Maps/OF PROUST.md",
     "00_System/Life OS 岁时记.md",
     "00_System/00-NAMESPACE.md",
-    "Essays.md",
     "04_Journal/2026/2/2026-02-26.md",
     "99_Archive/Final/MVP1.0.md",
     "01_Maps/The Bradbury Quartet.md",
@@ -320,7 +322,6 @@
     "Asserts",
     "02_Active_Projects",
     "01_Maps/Cathedral/OF PROUST",
-    "04_Journal/2026/2",
     "Pasted image 20260129012044.png",
     "Pasted image 20260128231617.png",
     "Pasted image 20260128231609.png",
