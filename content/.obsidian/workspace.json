@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/Active_Projects/普鲁斯特系列精读.md",
+                "file": "00_System/📂 Templates/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "普鲁斯特系列精读"
+              "title": "未命名"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:domain/LITERATURE/close_reading",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,11 +281,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68fde63f85df2b64",
+  "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
+    "00_System/📂 Templates/未命名.md",
     "04_Journal/2026-02-26.md",
     "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
     "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
     "Eassays/index.md",
     "Essays.md",
@@ -314,7 +314,6 @@
     "Pasted image 20260226011610.png",
     "content/index.md",
     "content/04_Journal/2026/2/2026-02-26.md",
-    "content/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",
