@@ -564,3 +564,42 @@ article {
   margin-top: 0;
   padding-top: 0;
 }
+/* --- 1. 目录(TOC) 醒目化：古典罗盘风格 --- */
+.toc {
+  background: rgba(var(--secondary), 0.05) !important;
+  border: 1px solid rgba(var(--secondary), 0.1);
+  border-radius: 5px;
+  padding: 1.2rem !important;
+  margin-bottom: 2rem;
+
+  /* 解决你说“太小”的问题：放大标题 */
+  & > button {
+    font-family: "EB Garamond", serif !important;
+    font-size: 1.2rem !important; 
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    color: var(--secondary);
+    border-bottom: 1px solid var(--lightgray);
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.3rem;
+  }
+
+  /* 放大目录内的链接字号 */
+  & ul li a {
+    font-size: 0.95rem !important;
+    line-height: 1.6;
+    opacity: 0.8;
+  }
+}
+
+/* --- 2. Giscus 深度适配：让评论区彻底隐身 --- */
+iframe.giscus-frame {
+  background: transparent !important;
+  color-scheme: light dark;
+}
+
+/* --- 3. 修正夜间模式按钮的边距 --- */
+.darkmode {
+  cursor: pointer;
+  padding: 0 0.5rem;
+}

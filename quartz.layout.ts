@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// 所有页面通用的组件（页头、页脚等）
+// 所有页面通用的组件
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// 笔记详情页布局 (例如单篇 Proust 笔记)
+// 笔记详情页布局 (长文页)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -38,14 +38,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()), // 目录归位：放在首位确保高优先级
+    // 1. 目录：放在最上方，且不加 DesktopOnly 包装，确保其始终尝试渲染
+    Component.TableOfContents(), 
+    // 2. 关系图谱
     Component.Graph(), 
+    // 3. 行进中的星座
     Component.RecentNotes({
-      title: "✦ Constellations", // 统一命名
+      title: "✦ CONSTELLATIONS",
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
     }),
+    // 4. 反向链接
     Component.Backlinks(),
   ],
   afterBody: [
@@ -60,13 +64,13 @@ export const defaultContentPageLayout: PageLayout = {
         strict: false,
         reactionsEnabled: true,
         inputPosition: 'bottom',
-        theme: 'preferred_color_scheme', // 配合 CSS 实现羊皮纸色调同步
+        theme: 'preferred_color_scheme', 
       }
     }),
   ],
 }
 
-// 列表页布局 (例如 Essays 文件夹预览、标签页)
+// 列表页布局 (首页或文件夹预览)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -74,15 +78,17 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
+        // ✨ 帮你找回了之前“消失”的夜间模式按钮
         { Component: Component.Search(), grow: true },
-        { Component: Component.Darkmode() },
+        { Component: Component.Darkmode() }, 
       ],
     }),
     Component.Explorer(),
   ],
   right: [
+    // 列表页保持克制，只显示最重要的“星座”
     Component.RecentNotes({
-      title: "✦ Constellations",
+      title: "✦ CONSTELLATIONS",
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),

@@ -267,9 +267,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "bf3c8a0479bad75b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -294,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05353e3e711fce91",
+  "active": "d5a8f9e4693bcb11",
   "lastOpenFiles": [
     "content/00_System/North Star Terminal.md",
     "content/00_System/📂 Templates/PBL.md",
