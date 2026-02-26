@@ -41,30 +41,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(), 
+    Component.Graph(), // 这里要有逗号
     Component.RecentNotes({
       title: "✦ 行进中的星座",
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
-    }), // <--- 这里必须有逗号
-    Component.DesktopOnly(Component.TableOfContents()),
+    }), // 这里的大括号后面一定要有逗号
+    Component.DesktopOnly(Component.TableOfContents()), // 这里也要有逗号
     Component.Backlinks(),
-  ],
-      limit: 4,              // 限制显示数量，避免侧边栏过长
-      // 过滤器逻辑：只有 Frontmatter 中 status 属性为 "active" 的笔记才会被抓取
-      filter: (f) => f.frontmatter?.status === "active", 
-      // 排序逻辑：按照文件的最后修改时间（modified）降序排列，确保最活跃的项目在最上方
-      sort: (f1, f2) => 
-        (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
-    }),
-
-    // 3. 目录：仅在桌面端显示，且放在项目卡片下方
-    Component.DesktopOnly(Component.TableOfContents()),
-
-    // 4. 反向链接：列出引用了当前页面的其他笔记
-    Component.Backlinks(),
-  ],
+  ], // 整个数组结束的中括号
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
