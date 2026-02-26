@@ -548,3 +548,19 @@ article {
     background: rgba(var(--tertiary), 0.05) !important;
   }
 }
+/* --- Giscus 评论区古典化适配 --- */
+.giscus-frame {
+  background: transparent !important; /* 强制透明，透出羊皮纸底色 */
+}
+
+.giscus {
+  margin-top: 5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--lightgray); /* 增加顶部优雅的分隔线 */
+}
+
+/* 移除目录（TOC）可能存在的冗余边距，确保其在右侧栏顶部对齐 */
+.sidebar.right .toc {
+  margin-top: 0;
+  padding-top: 0;
+}

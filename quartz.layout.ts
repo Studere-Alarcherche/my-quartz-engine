@@ -38,18 +38,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(), // 文章页保留关系图谱
+    Component.DesktopOnly(Component.TableOfContents()), // 目录归位：放在首位确保高优先级
+    Component.Graph(), 
     Component.RecentNotes({
-      title: "✦ Constellations",
+      title: "✦ Constellations", // 统一命名
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-  // ✨ 这里是新增的评论区模块 ✨
-  // 我们将它放置在 defaultContentPageLayout 中，使其仅在笔记正文底部渲染
   afterBody: [
     Component.Comments({
       provider: 'giscus',
@@ -58,10 +56,11 @@ export const defaultContentPageLayout: PageLayout = {
         repoId: 'R_kgDORYpwTA',
         category: 'General',
         categoryId: 'DIC_kwDORYpwTM4C3Q3J',
-        mapping: 'pathname', // 根据 URL 路径区分不同的评论区
+        mapping: 'pathname',
         strict: false,
-        reactionsEnabled: true, // 开启表情回复
-        inputPosition: 'bottom', // 评论框置于底部
+        reactionsEnabled: true,
+        inputPosition: 'bottom',
+        theme: 'preferred_color_scheme', // 配合 CSS 实现羊皮纸色调同步
       }
     }),
   ],
@@ -82,7 +81,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // 列表页也加上星座组件，解决你之前反馈的“消失”问题
     Component.RecentNotes({
       title: "✦ Constellations",
       limit: 4,

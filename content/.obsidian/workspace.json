@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Archive/Final/最终成品.md",
-                "mode": "source",
+                "file": "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "最终成品"
+              "title": "托马斯.曼 阅读专项"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pbl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,14 +281,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f0186bf89f272a0",
+  "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
+    "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
+    "00_System/North Star Terminal.md",
+    "00_System/00-NAMESPACE.md",
+    "00_System/Life OS 岁时记.md",
+    "00_System/📂 Templates/PBL.md",
+    "01_Maps/Bricks/Literature/PRS01-Vocab.md",
+    "01_Maps/Bricks/Literature/INTRO&P.md",
+    "01_Maps/Bricks/Literature/切片01-The Task of a Translator.md",
+    "00_System/📂 Templates/Monthly_Reset.md",
+    "00_System/📂 Templates/Daily Gaming.md",
+    "04_Journal/2026-02-26.md",
     "99_Archive/Final/教材编写总论.md",
     "99_Archive/Final/MVP1.0.md",
-    "00_System/📂 Templates/PBL.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
-    "04_Journal/2026-02-26.md",
-    "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
     "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
     "Eassays/index.md",
     "Essays.md",
@@ -296,24 +304,16 @@
     "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",
     "index.md",
     "01_Maps/OF PROUST.md",
-    "01_Maps/Bricks/Literature/切片01-The Task of a Translator.md",
     "99_Archive/Final/最终成品.md",
     "01_Maps/渐进式语言教材-英文.md",
     "01_Maps/Bricks/Intro.md",
     "Asserts/proust-logo.png.jpg",
-    "North Star Terminal.md",
     "01_Maps/Bricks/Character Sheet-The Player.md",
     "01_Maps/Bricks/Tech",
-    "01_Maps/Bricks/Literature/PRS01-Vocab.md",
     "01_Maps/Bricks/Literature",
-    "00_System/Life OS 岁时记.md",
-    "00_System/00-NAMESPACE.md",
     "04_Journal/2026/2/2026-02-26.md",
     "01_Maps/The Bradbury Quartet.md",
-    "Studere-Knowledge-Base/00_System/📂 Legacy_Inbox/🎭Character Sheet-The Player.md",
-    "Studere-Knowledge-Base/00_System/Life OS 岁时记.md",
     "Pasted image 20260226011610.png",
-    "content/index.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",
