@@ -54,7 +54,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Index",
+                "query": "tag:domain/LITERATURE/close_reading",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,30 +265,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "publish:Publish changes...": false,
-      "bases:Create new base": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "publish:發佈變動內容": false,
+      "bases:建立新的 base": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92825f4436abfef6",
+  "active": "68fde63f85df2b64",
   "lastOpenFiles": [
+    "04_Journal/2026-02-26.md",
     "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
     "01_Maps/Active_Projects/普鲁斯特系列精读.md",
     "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
     "Eassays/index.md",
-    "04_Journal/2026-02-26.md",
     "Essays.md",
     "Eassays",
     "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",

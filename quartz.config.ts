@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: { provider: "plausible" },
     locale: "zh-CN",
     baseUrl: "studere-alarcherche.github.io/Proustian",
-    ignorePatterns: ["private", "templates", ".obsidian", "00_System", "04_Journal", "99_Archive"],
+    ignorePatterns: ["private", "templates", ".obsidian", "00_System", "04_Journal", ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

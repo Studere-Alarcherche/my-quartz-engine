@@ -459,3 +459,92 @@ article {
     }
   }
 }
+/* ==========================================
+   ✦ Constellations：动态星轨与时间的微观沉淀
+   ========================================== */
+   .recent-notes .tags {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 0.5rem;
+  
+    /* 1. 动态星轨：隐藏文字，化为线条 */
+    a[href*="progress/"] {
+      font-size: 0 !important; 
+      color: transparent !important;
+      display: inline-block;
+      width: 80px; /* 星轨的古典比例 */
+      height: 2px; /* 极细，保持克制 */
+      border-radius: 2px;
+      padding: 0;
+      border: none;
+      background-color: rgba(var(--gray), 0.15); /* 黯淡的夜空底色 */
+      transition: all 0.4s ease;
+    }
+    
+    a[href*="progress/"]:hover {
+      height: 3px; 
+      transform: scaleX(1.05); /* 悬停时的呼吸感 */
+    }
+  
+    /* 核心魔法：利用 SCSS 循环，自动映射 1% 到 100% 的真实长度 */
+    @for $i from 1 through 100 {
+      a[href$="progress/#{$i}"] {
+        background: linear-gradient(to right, var(--tertiary) #{$i}%, rgba(var(--gray), 0.15) #{$i}%);
+      }
+    }
+    
+    /* 100% 满盈状态下的专属辉光 */
+    a[href$="progress/100"] { 
+      box-shadow: 0 0 8px rgba(var(--tertiary), 0.4); 
+    }
+  
+    /* 2. 分钟刻度：以分钟丈量的古典时间 */
+    a[href*="min/"] {
+      background: transparent !important;
+      border: none !important;
+      color: var(--secondary) !important;
+      font-family: "EB Garamond", serif !important; /* 强制调用古典字体 */
+      font-style: italic;
+      font-size: 0.85rem;
+      padding: 0;
+      opacity: 0.85;
+    }
+    
+    /* 时间前方的星辰指引 */
+    a[href*="min/"]::before {
+      content: "✦ "; 
+      font-size: 0.65rem;
+      opacity: 0.5;
+      margin-right: 3px;
+    }
+    
+    a[href*="min/"]:hover {
+      color: var(--tertiary) !important;
+    }
+  }
+  /* --- 分类印章：古典图书馆的学科界定 --- */
+.recent-notes .tags {
+  /* 捕捉所有以 domain/ 开头的标签 */
+  a[href*="domain/"] {
+    background: transparent !important;
+    border: 1px solid rgba(var(--secondary), 0.3) !important; 
+    color: var(--secondary) !important;
+    font-family: "EB Garamond", serif !important;
+    font-size: 0.7rem;
+    font-variant: small-caps; 
+    letter-spacing: 0.08em;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px; 
+    margin-right: 4px;
+    transition: all 0.3s ease;
+  }
+
+  /* 悬停时的微光效果 */
+  a[href*="domain/"]:hover {
+    border-color: var(--tertiary) !important;
+    color: var(--tertiary) !important;
+    background: rgba(var(--tertiary), 0.05) !important;
+  }
+}
