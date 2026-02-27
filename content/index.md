@@ -1,24 +1,21 @@
 ---
 title: Proustian
 url: https://studere-alarcherche.github.io/Proustian/
+description: "description: 关于我"
 ---
-> [!quote] Les Échasses
-> "... si elle (la force) me serait laissée assez longtemps pour accomplir mon œuvre, je ne manquerais pas d'y décrire les hommes, dût cela les faire ressembler à des êtres monstrueux, comme occupant une place si considerable, à côté de celle qui leur est réservée dans l'espace, une place au contraire prolongée sans mesure puisqu'ils touchent simultanément, comme des géants plongés dans les années, à des époques si lointaines, vécues par eux, entre lesquelles tant de jours sont venus se placer — **dans le Temps**."
+> [!quote]
 > 
-> ---
->
+> Longtemps, je me suis couché de bonne heure.
 
->[!quote] C. K. Scott Moncrieff
-> "... if strength were granted me for long enough to accomplish my work, I should not fail, even though it should make them seem like monsters, to describe men as occupying so considerable a place, compared with the restricted place which is reserved for them in space, a place on the contrary prolonged past measure, for they touch simultaneously, like giants plunged into the years, then distant epochs through which they have lived, between which so many days have come to range themselves — **in Time**."
+> [!quote]
+> 
+> 在我，等它們一個接一個地被病魔擊倒以後，大概還會剩下兩三個生命力特別頑強的精靈，其中少不了有那麼個哲學家，他只有在兩件藝術品，在兩種感覺之間找出共同之處以後，才會感到快樂。
 
-
-  > [!quote] 周克希/李恒基
-  >
->  "“……如果我有足够长的时间来完成我的作品，我必将在其中描述那些人，哪怕这会使他们显得像是怪物。在空间中，他们占据的地方终究有限，但在时间中，他们却占据了一个硕大无朋、无限延续的地位，因为他们像浸沉在岁月里的巨人，同时触及那些彼此相隔甚远、在他们的一生中经历过的时代——**在时间之中**。” >"
----
+> [!quote]
+> 
+> 普鲁斯特先生对饮品的品质非常讲究。首先，绝对不能选用科瑟莱(Corcellet)咖啡豆以外的咖啡品牌。而且必须要去位于列维街(Rue de Lvis)上烘培豆子的店铺里直接购买，这样才能保证新鲜优质，不失香气。接着，过滤器也必须是科瑟莱的，绝对不可以换成其他品牌，连小托盘也得用科瑟莱的。为了得到普鲁斯特先生想要的浓咖啡，需要在过滤器中装满磨得很细的，压紧实的咖啡粉末，然后让水缓慢地流过，一滴一滴落下，在这个过程中，所有器具都要泡在热水里保温。
 
   
-
 <div class="constellation-gallery">
 
   <div class="constellation-item">
@@ -38,7 +35,7 @@ url: https://studere-alarcherche.github.io/Proustian/
   <div class="constellation-item">
     <div class="constellation-label">✦ 巴别塔 / THE FOUNDATION</div>
     <h2><a href="/English-Textbook">渐进式语言教材 - 英文</a></h2>
-    <p class="constellation-desc">尝试自制教材</p>
+    <p class="constellation-desc"></p>
   </div>
 
 </div>
