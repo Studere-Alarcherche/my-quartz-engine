@@ -184,13 +184,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "230c70b85994b7b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "462286ddd567f68b",
+  "active": "1546f1ad54888a99",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "04_Journal/2026-02-27.md"
