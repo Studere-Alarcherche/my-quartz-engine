@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "57f836f2df4eb51e",
+    "id": "aa2fb48a7ea7e2d9",
     "type": "split",
     "children": [
       {
-        "id": "2be04e51660f3fa9",
+        "id": "9b5f3c026862bb7a",
         "type": "tabs",
         "children": [
           {
-            "id": "92825f4436abfef6",
+            "id": "462286ddd567f68b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,28 +37,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d84bc74e652960a",
+    "id": "feab5e470bd13254",
     "type": "split",
     "children": [
       {
-        "id": "f64cc80406d2a770",
+        "id": "07016c2526163725",
         "type": "tabs",
         "children": [
           {
-            "id": "4f0186bf89f272a0",
+            "id": "1546f1ad54888a99",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "68fde63f85df2b64",
+            "id": "68a232ef324601a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "fee46ef2b8740a70",
+            "id": "c739811858721d3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,23 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "8429ec4e85488a51",
+    "id": "cea85d3639db91ee",
     "type": "split",
     "children": [
       {
-        "id": "362b333850a59761",
+        "id": "b0f2699a6a23ecec",
         "type": "tabs",
         "children": [
           {
-            "id": "eca6d749a8e04cab",
+            "id": "38c5eae197ba4404",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "04_Journal/2026-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-12 的反向連結"
+              "title": "Backlinks for 2026-02-27"
             }
           },
           {
-            "id": "3b17d2399c30ce94",
+            "id": "83c6b4e23e056781",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
-                "linksCollapsed": true,
+                "file": "04_Journal/2026-02-27.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-12 的對外連結"
+              "title": "Outgoing links from 2026-02-27"
             }
           },
           {
-            "id": "a66d713e0f361171",
+            "id": "8d280a16bd2b772d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,110 +143,40 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "標籤"
+              "title": "Tags"
             }
           },
           {
-            "id": "7a27a801b5ab5fde",
+            "id": "b77a847ce150202e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "所有屬性"
+              "title": "All properties"
             }
           },
           {
-            "id": "885665953be2ecd8",
+            "id": "fb6645cc697cc141",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
-                "followCursor": true,
+                "file": "04_Journal/2026-02-27.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-12 的大綱"
+              "title": "Outline of 2026-02-27"
             }
           },
           {
-            "id": "ac362bfabb62290b",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "955ddd16b184ed86",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "ae74cea750202443",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "277899542b3930d6",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "2af6f86969af9b2d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "05353e3e711fce91",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "e2899336bbe9d201",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "f14d2e641140e8ab",
+            "id": "8161899ad098d41c",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -255,12 +185,12 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,56 +211,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2af6f86969af9b2d",
-  "lastOpenFiles": [
-    "00_System/Life OS 岁时记.md",
-    "00_System/North Star Terminal.md",
-    "04_Journal/2026-02-27.md",
-    "00_System/00-NAMESPACE.md",
-    "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
-    "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",
-    "01_Maps/Bricks/Intro.md",
-    "01_Maps/Bricks/Character Sheet-The Player.md",
-    "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
-    "01_Maps/OF PROUST.md",
-    "01_Maps/OF PROUST/index.md",
-    "01_Maps/渐进式语言教材-英文.md",
-    "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
-    "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
-    "North Star Terminal.md",
-    "04_Journal/2026-02-26.md",
-    "01_Maps/The Bradbury Quartet.md",
-    "01_Maps/Bricks/Literature/切片01-The Task of a Translator.md",
-    "01_Maps/Bricks/Literature/PRS01-Vocab.md",
-    "01_Maps/Bricks/Literature/INTRO&P.md",
-    "01_Maps/OF PROUST/PR-1",
-    "01_Maps/Bricks/Literature/OFP ROUST/INTRO&P.md",
-    "01_Maps/Bricks/Literature/OFP ROUST",
-    "01_Maps/The Bradbury Quartet/The Bradbury Quartet.md",
-    "99_Archive/Final/MVP1.0.md",
-    "01_Maps/渐进式语言教材-英文/index.md",
-    "01_Maps/The Bradbury Quartet/index.md",
-    "01_Maps/Seeds/Strategic Seed Bank (灵感孵化器).md",
-    "Eassays",
-    "01_Maps/渐进式语言教材-英文",
-    "01_Maps/The Bradbury Quartet",
-    "01_Maps/OF PROUST",
-    "Asserts/proust-logo.png.jpg",
-    "Asserts/Pasted image 20260219201554.png",
-    "Essays",
-    "01_Maps/Bricks/Tech",
-    "01_Maps/Bricks/Literature",
-    "Pasted image 20260226011610.png",
-    "01_Maps/Active_Projects",
-    "Pasted image 20260129012044.png",
-    "Pasted image 20260128231617.png",
-    "Pasted image 20260128231609.png",
-    "99_Archive/Final/未命名.canvas",
-    "Pasted image 20260125231041.png",
-    "Pasted image 20260125224109.png",
-    "Pasted image 20260124011611.png",
-    "Pasted image 20260124010518.png",
-    "03-Resources/Brain Storm.canvas",
-    "Untitled.canvas"
-  ]
+  "active": "462286ddd567f68b",
+  "lastOpenFiles": []
 }

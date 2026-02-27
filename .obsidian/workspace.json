@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "🌟Level 100- The Cognitive Athlete"
             }
+          },
+          {
+            "id": "197a9e8c0b888686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,14 +328,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5a8f9e4693bcb11",
+  "active": "197a9e8c0b888686",
   "lastOpenFiles": [
+    "content/00_System/📂 Legacy_Inbox/🌟Level 100- The Cognitive Athlete.md",
+    "conflict-files-obsidian-git.md",
+    "content/00_System/📂 Templates/PBL.md",
+    "content/00_System/Life OS 岁时记.md",
     "content/04_Journal/2026-02-27.md",
     "quartz/static/proust-logo.png",
     "proust-logo.png",
     "content/04_Journal/2026-02-26.md",
     "quartz/static/icon.png",
-    "conflict-files-obsidian-git.md",
     "quartz/static/og-image.png",
     "quartz/static/proust-logo.png.jpg",
     "content/index.md",
@@ -335,9 +362,6 @@
     "README.md",
     "CODE_OF_CONDUCT.md",
     "content/04_Journal/2026/2/2026-02-25.md",
-    "North Star Terminal.md",
-    "04_Journal/2026/2/2026-02-25.md",
-    "Essays.md",
     "01_Maps/Active_Projects",
     "公理",
     "Asserts/Pasted image 20260219201554.png",

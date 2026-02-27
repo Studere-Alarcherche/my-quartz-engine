@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+// 所有页面通用的组件（页头、页脚等）
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// 笔记详情页布局 (例如单篇 Proust 笔记)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -30,10 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.Search(), grow: true },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
@@ -41,19 +38,35 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()), // 目录归位：放在首位确保高优先级
+    Component.Graph(), 
     Component.RecentNotes({
-      title: "✦ 行进中的星座",
+      title: "✦ Constellations", // 统一命名
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-} // <--- 关键点：这个大括号之前被漏掉了，它负责关闭 defaultContentPageLayout
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'Studere-Alarcherche/Proustian',
+        repoId: 'R_kgDORYpwTA',
+        category: 'General',
+        categoryId: 'DIC_kwDORYpwTM4C3Q3J',
+        mapping: 'pathname',
+        strict: false,
+        reactionsEnabled: true,
+        inputPosition: 'bottom',
+        theme: 'preferred_color_scheme', // 配合 CSS 实现羊皮纸色调同步
+      }
+    }),
+  ],
+}
 
-// components for pages that display lists of pages (e.g. tags or folders)
+// 列表页布局 (例如 Essays 文件夹预览、标签页)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -61,14 +74,18 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.Search(), grow: true },
         { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.RecentNotes({
+      title: "✦ Constellations",
+      limit: 4,
+      filter: (f) => f.frontmatter?.status === "active",
+      sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
+    }),
+  ],
 }
