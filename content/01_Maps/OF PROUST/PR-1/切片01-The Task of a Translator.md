@@ -1,3 +1,20 @@
+---
+title: 作为译解者的作家：从感官符号到精神等价物
+aliases:
+  - 作家即翻译者
+  - 普鲁斯特的审美启示
+date: 2026-02-27
+target: 界定义文学创作作为一种对内在自然律与非自愿记忆的‘强制性翻译’过程
+area: Area/Literature/Intensive_Reading
+tags:
+  - Involuntary-Memory
+  - Aesthetics
+  - Translation
+  - Proust
+duration: 45min
+type: intensive-reading
+pathosformel: “艺术开始于自由终结之处：一种受难式的、被迫的翻译状态。”
+---
 ![[Pasted image 20260219201554.png]]
 # The Task of a Translator
 
@@ -41,5 +58,3 @@ In short, in this case as in the other, whether it be a question of impressions 
     
 - Emotional Tone: Epiphanic, solemn, resolved, intellectualized ecstasy
 ---
-# Close Reading Series 
-## 01-[[PRS01-Vocab]]

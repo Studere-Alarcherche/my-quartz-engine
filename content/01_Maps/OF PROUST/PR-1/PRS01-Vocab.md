@@ -13,6 +13,7 @@ tags:
 duration: 30min
 type: intensive-reading
 pathosformel: “艺术开始于自由终结之处：一种受难式的、被迫的翻译状态。”
+stage: Phase 2-I.a
 ---
 ## The Vocabulary of Necessity
 

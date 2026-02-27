@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/OF PROUST/index.md",
+                "file": "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "基于 Obsidian x Quartz x Git 的网状数字花园搭建指南"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "Search"
             }
           },
           {
@@ -283,44 +283,45 @@
   },
   "active": "92825f4436abfef6",
   "lastOpenFiles": [
+    "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",
+    "01_Maps/Bricks/Intro.md",
+    "01_Maps/Bricks/Character Sheet-The Player.md",
+    "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
+    "01_Maps/OF PROUST.md",
+    "01_Maps/OF PROUST/index.md",
+    "01_Maps/渐进式语言教材-英文.md",
+    "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
+    "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
+    "North Star Terminal.md",
+    "04_Journal/2026-02-27.md",
+    "04_Journal/2026-02-26.md",
+    "01_Maps/The Bradbury Quartet.md",
+    "01_Maps/Bricks/Literature/切片01-The Task of a Translator.md",
+    "01_Maps/Bricks/Literature/PRS01-Vocab.md",
+    "01_Maps/Bricks/Literature/INTRO&P.md",
+    "01_Maps/OF PROUST/PR-1",
+    "01_Maps/Bricks/Literature/OFP ROUST/INTRO&P.md",
+    "01_Maps/Bricks/Literature/OFP ROUST",
+    "01_Maps/The Bradbury Quartet/The Bradbury Quartet.md",
+    "99_Archive/Final/MVP1.0.md",
+    "00_System/North Star Terminal.md",
+    "01_Maps/渐进式语言教材-英文/index.md",
+    "01_Maps/The Bradbury Quartet/index.md",
+    "01_Maps/Seeds/Strategic Seed Bank (灵感孵化器).md",
     "Eassays/index.md",
     "Eassays",
-    "01_Maps/The Bradbury Quartet/index.md",
-    "01_Maps/OF PROUST/index.md",
-    "01_Maps/渐进式语言教材-英文/index.md",
-    "01_Maps/渐进式语言教材-英文.md",
-    "01_Maps/OF PROUST.md",
-    "01_Maps/The Bradbury Quartet.md",
     "01_Maps/渐进式语言教材-英文",
     "Essays/index.md",
     "01_Maps/The Bradbury Quartet",
-    "North Star Terminal.md",
     "index.md",
-    "Eassays/Untitled.md",
     "01_Maps/OF PROUST",
-    "01_Maps/Untitled.md",
-    "04_Journal/2026-02-27.md",
     "Asserts/proust-logo.png.jpg",
     "Asserts/Pasted image 20260219201554.png",
-    "04_Journal/2026-02-26.md",
-    "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
-    "01_Maps/Bricks/Tech/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
-    "Essays.md",
     "Essays",
-    "01_Maps/Bricks/Tech/01-为什么我们需要OB+GIT+静态网站.md",
-    "01_Maps/Bricks/Literature/切片01-The Task of a Translator.md",
-    "99_Archive/Final/最终成品.md",
-    "01_Maps/Bricks/Intro.md",
-    "01_Maps/Bricks/Character Sheet-The Player.md",
     "01_Maps/Bricks/Tech",
-    "01_Maps/Bricks/Literature/PRS01-Vocab.md",
     "01_Maps/Bricks/Literature",
-    "00_System/Life OS 岁时记.md",
     "Pasted image 20260226011610.png",
     "01_Maps/Active_Projects",
-    "公理",
-    "03_Essays",
     "Pasted image 20260129012044.png",
     "Pasted image 20260128231617.png",
     "Pasted image 20260128231609.png",
