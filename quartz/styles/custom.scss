@@ -653,3 +653,30 @@ iframe.giscus-frame {
 .recent-notes ul li .meta {
   color: rgba(155, 50, 38, 0.5) !important;
 }
+/* MOC 链接视觉权重增强 */
+.internal-link {
+  position: relative;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.1rem 0.3rem;
+  margin: 0 0.1rem;
+  border-bottom: 1px solid rgba(155, 50, 38, 0.2); /* 庞贝红极细底线 */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  color: #1B3B86 !important; /* 维米尔群青 */
+
+  &:hover {
+    background: rgba(27, 59, 134, 0.05);
+    border-bottom-color: #9B3226; /* 悬浮时底线变红 */
+    border-radius: 4px;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+}
+
+/* 针对 MOC 列表的特殊排版：让它们像卡片一样排列 */
+article > ul > li > .internal-link {
+  display: inline-block;
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+}

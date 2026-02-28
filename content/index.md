@@ -1,6 +1,5 @@
 ---
 title: Proustian
-url: https://studere-alarcherche.github.io/Proustian/
 description: "description: 关于我"
 ---
 
