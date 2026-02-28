@@ -14,6 +14,15 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// --- 核心修改区：定义侧边栏过滤逻辑 ---
+// 隐藏后台与零碎文件夹，只展示前台展厅 (如 01_Maps, Essays)
+const explorerFilter = Component.Explorer({
+  filterFn: (node) => {
+    const excludeFolders = ["99_Archive", "Seeds", "Active_Projects", "Bricks", "System", "Asserts"]
+    return !excludeFolders.includes(node.name)
+  },
+})
+
 // 笔记详情页布局 (例如单篇 Proust 笔记)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -35,10 +44,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    explorerFilter, // <--- 应用过滤后的导航栏
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()), // 目录归位：放在首位确保高优先级
+    Component.DesktopOnly(Component.TableOfContents()), // 目录归位
     Component.Graph(), 
     Component.RecentNotes({
       title: "✦ Constellations", // 统一命名
@@ -78,7 +87,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    explorerFilter, // <--- 应用过滤后的导航栏
   ],
   right: [
     Component.RecentNotes({

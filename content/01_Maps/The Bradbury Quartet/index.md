@@ -9,6 +9,9 @@ status: evergreen
 description: 百科全书式的阅读是一种生活方式
 investment: 0
 ---
+<div style="width: 100%; height: 280px; overflow: hidden; border-radius: 8px; margin-bottom: 2rem; border: 1px solid var(--secondary);">
+  <img src="/Asserts/banner-bradbury.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center; margin: 0;" alt="The Bradbury Quartet">
+</div>
 
 > [!quote] 
 > “I'll give you a programme to follow every night... read one poem a night, one short story a night, one essay a night, for the next 1,000 nights.”
