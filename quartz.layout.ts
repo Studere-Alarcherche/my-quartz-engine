@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// 所有页面通用的组件（页头、页脚等）
+// 所有页面通用的组件
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -9,21 +9,38 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
 
-// --- 核心修改区：定义侧边栏过滤逻辑 ---
-// 隐藏后台与零碎文件夹，只展示前台展厅 (如 01_Maps, Essays)
+// --- 核心修改：定义严格屏蔽的目录树 ---
 const explorerFilter = Component.Explorer({
+  title: "探索",
   filterFn: (node) => {
-    const excludeFolders = ["99_Archive", "Seeds", "Active_Projects", "Bricks", "System", "Asserts"]
+    // 强制屏蔽这些文件夹，保持目录树纯净
+    const excludeFolders = ["99_Archive", "Seeds", "Active_Projects", "Bricks", "System", "Asserts", "00_System"]
     return !excludeFolders.includes(node.name)
   },
 })
 
-// 笔记详情页布局 (例如单篇 Proust 笔记)
+// --- 新增：炫酷的左侧控制台组件 ---
+const systemConsole = Component.Html({
+  html: `
+  <div style="margin-top: 1.5rem; padding: 1rem; border: 1px solid var(--secondary); border-radius: 4px; background: rgba(var(--secondary-rgb), 0.03); border-left: 3px solid var(--secondary);">
+    <div style="font-size: 0.7em; color: var(--gray); letter-spacing: 0.15em; margin-bottom: 0.8rem; text-transform: uppercase; font-weight: bold;">⚡ System Console</div>
+    
+    <a href="/Active_Projects/" style="display: flex; align-items: center; gap: 0.6rem; text-decoration: none; color: var(--secondary); font-weight: bold; font-size: 0.9em; margin-bottom: 0.6rem; transition: transform 0.2s ease;" onmouseover="this.style.transform='translateX(4px)'" onmouseout="this.style.transform='translateX(0)'">
+      <span style="font-size: 1.2em;">⌬</span> Active Projects
+    </a>
+    
+    <a href="/99_Archive/" style="display: flex; align-items: center; gap: 0.6rem; text-decoration: none; color: var(--gray); font-size: 0.85em; transition: transform 0.2s ease;" onmouseover="this.style.transform='translateX(4px)'" onmouseout="this.style.transform='translateX(0)'">
+      <span style="font-size: 1.2em;">☖</span> Historical Archive
+    </a>
+  </div>
+  `
+})
+
+// 笔记详情页布局
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -44,13 +61,14 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    explorerFilter, // <--- 应用过滤后的导航栏
+    systemConsole,   // <--- 炫酷的控制台放在最上方
+    explorerFilter,  // <--- 净化后的目录树跟在后面
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()), // 目录归位
+    Component.DesktopOnly(Component.TableOfContents()), 
     Component.Graph(), 
     Component.RecentNotes({
-      title: "✦ Constellations", // 统一命名
+      title: "✦ Constellations",
       limit: 4,
       filter: (f) => f.frontmatter?.status === "active",
       sort: (f1, f2) => (f2.dates?.modified.getTime() ?? 0) - (f1.dates?.modified.getTime() ?? 0),
@@ -69,13 +87,13 @@ export const defaultContentPageLayout: PageLayout = {
         strict: false,
         reactionsEnabled: true,
         inputPosition: 'bottom',
-        theme: 'preferred_color_scheme', // 配合 CSS 实现羊皮纸色调同步
+        theme: 'preferred_color_scheme',
       }
     }),
   ],
 }
 
-// 列表页布局 (例如 Essays 文件夹预览、标签页)
+// 列表页布局
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -87,7 +105,8 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    explorerFilter, // <--- 应用过滤后的导航栏
+    systemConsole,   // <--- 列表页同步保持一致性
+    explorerFilter,
   ],
   right: [
     Component.RecentNotes({

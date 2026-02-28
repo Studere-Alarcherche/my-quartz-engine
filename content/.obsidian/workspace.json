@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Journal/2026-02-28.md",
+                "file": "01_Maps/Active_Projects/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-28"
+              "title": "index"
             }
           }
         ]
@@ -223,8 +223,9 @@
   },
   "active": "462286ddd567f68b",
   "lastOpenFiles": [
-    "04_Journal/2026-02-28.md",
     "index.md",
+    "01_Maps/Active_Projects/index.md",
+    "04_Journal/2026-02-28.md",
     "01_Maps/渐进式语言教材-英文/index.md",
     "01_Maps/The Bradbury Quartet/index.md",
     "01_Maps/OF PROUST/index.md",
