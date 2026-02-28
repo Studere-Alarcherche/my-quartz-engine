@@ -24,7 +24,7 @@ description: "description: 关于我"
     <div style="border: 1px solid var(--gray); padding: 1.2rem; border-radius: 4px; background: transparent; border-left: 4px solid var(--gray); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'">
       <div style="font-size: 0.7em; color: var(--gray); letter-spacing: 0.15em; margin-bottom: 0.5rem; text-transform: uppercase;">☖ Cold Storage</div>
       <div style="font-size: 1.1em; color: var(--gray); font-weight: bold;">Historical Archive</div>
-      <div style="font-size: 0.8em; color: var(--dark); margin-top: 0.4rem; opacity: 0.7;">已封存的思想切片与历史批次</div>
+      <div style="font-size: 0.8em; color: var(--dark); margin-top: 0.4rem; opacity: 0.7;">已封存</div>
     </div>
   </a>
 
