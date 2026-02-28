@@ -32,7 +32,7 @@ description: "description: 关于我"
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.05); margin-bottom: 3rem;">
 
-> [!abstract] **Longtemps, je me suis couché de bonne heure.**
+> [!quote]  **Longtemps, je me suis couché de bonne heure.**
 
 ---
 
@@ -40,9 +40,9 @@ description: "description: 关于我"
 
 ---
 
-> [!note] 普鲁斯特先生对饮品的品质非常讲究。首先，绝对不能选用**科瑟莱(Corcellet)**咖啡豆以外的咖啡品牌。而且必须要去位于**列维街(Rue de Lvis)**上烘培豆子的店铺里直接购买，这样才能保证新鲜优质，不失香气。
-> 
+> [!quote] 普鲁斯特先生对饮品的品质非常讲究。首先，绝对不能选用**科瑟莱(Corcellet)**咖啡豆以外的咖啡品牌。而且必须要去位于**列维街(Rue de Lvis)**上烘培豆子的店铺里直接购买，这样才能保证新鲜优质，不失香气。
 > 接着，过滤器也必须是科瑟莱的，绝对不可以换成其他品牌，连小托盘也得用科瑟莱的。为了得到普鲁斯特先生想要的浓咖啡，需要在过滤器中装满磨得很细的，压紧实的咖啡粉末，然后让水缓慢地流过，一滴一滴落下，在这个过程中，所有器具都要泡在热水里保温。
+
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
 

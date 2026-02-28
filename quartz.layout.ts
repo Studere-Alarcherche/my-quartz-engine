@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import EssaysNav from "./quartz/components/EssaysNav" // <--- 引入维米尔群青随笔块
+import ProjectMeta from "./quartz/components/ProjectMeta" // <--- 补上！引入博物馆铭牌展台
 
 // 所有页面通用的组件
 export const sharedPageComponents: SharedLayout = {
@@ -18,7 +19,16 @@ export const sharedPageComponents: SharedLayout = {
 const explorerFilter = Component.Explorer({
   title: "探索",
   filterFn: (node) => {
-    const excludeFolders = ["99_Archive", "Seeds", "Active_Projects", "Bricks", "System", "Asserts", "00_System"]
+    // 终极黑名单：只要文件夹名字在这里面，前端就会彻底隐身
+    const excludeFolders = [
+      "Bricks", 
+      "Seeds", 
+      "99_Archive", 
+      "Active_Projects", 
+      "System", 
+      "Asserts", 
+      "00_System"
+    ]
     return !excludeFolders.includes(node.name)
   },
   sortFn: (a, b) => {
@@ -37,6 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
+    ProjectMeta(), // <--- 帮你挂载好了！你的 YAML 属性博物馆铭牌会在这里优雅呈现
     Component.ContentMeta(),
     Component.TagList(),
   ],
@@ -88,7 +99,12 @@ export const defaultContentPageLayout: PageLayout = {
 
 // 列表页布局 (首页或文件夹预览)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(), 
+    Component.ArticleTitle(), 
+    ProjectMeta(), // <--- 列表页也同步挂载铭牌
+    Component.ContentMeta()
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

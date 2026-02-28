@@ -1,5 +1,5 @@
 ---
-title: SYSTEM CONSOLE
+title: " CONSTELLATIONS"
 layout: layouts/index.njk
 ---
 2026-02-28<div style="border-left: 5px solid var(--secondary); padding-left: 1.5rem; margin-bottom: 3rem; margin-top: 1rem;">
