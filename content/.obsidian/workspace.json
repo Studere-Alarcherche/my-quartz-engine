@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "aa2fb48a7ea7e2d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "00267fb1c9068f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9af0a1505c272208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Maps/OF PROUST/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feab5e470bd13254",
+    "type": "split",
+    "children": [
+      {
+        "id": "07016c2526163725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1546f1ad54888a99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "68a232ef324601a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c739811858721d3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cea85d3639db91ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f2699a6a23ecec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c5eae197ba4404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_Journal/2026-02-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-27"
+            }
+          },
+          {
+            "id": "83c6b4e23e056781",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04_Journal/2026-02-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-27"
+            }
+          },
+          {
+            "id": "8d280a16bd2b772d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b77a847ce150202e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fb6645cc697cc141",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04_Journal/2026-02-27.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-27"
+            }
+          },
+          {
+            "id": "8161899ad098d41c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "230c70b85994b7b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "publish:发布更改": false,
+      "bases:新建数据库": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9af0a1505c272208",
+  "lastOpenFiles": [
+    "01_Maps/The Bradbury Quartet/index.md",
+    "01_Maps/SLA-英语高阶/index.md",
+    "01_Maps/Active_Projects/index.md",
+    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
+    "Asserts/proust-logo.png.jpg",
+    "Asserts/Pasted image 20260219201554.png",
+    "04_Journal/2026-02-28.md",
+    "Asserts/banner-proust.jpg",
+    "Asserts/banner-bradbury.jpg",
+    "Asserts/banner-language.jpg",
+    "Asserts/banner-essays.jpg",
+    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
+    "index.md",
+    "01_Maps/Active_Projects/普鲁斯特系列精读",
+    "Essays/index.md",
+    "未命名.md",
+    "00_System/Prompt Zone/普鲁斯特精读专用.md",
+    "01_Maps/OF PROUST/index.md",
+    "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
+    "链接新上.md",
+    "01_Maps/Seeds/Strategic Seed Bank (灵感孵化器).md",
+    "01_Maps/Bricks/Intro.md",
+    "01_Maps/Bricks/Character Sheet-The Player.md",
+    "Asserts/banner-proust.jpg.jfif",
+    "Asserts/banner-bradbury.jpg.jfif",
+    "Asserts/banner-language.jpg.jfif",
+    "Asserts/banner-essays.jpg.jfif",
+    "Asserts/banner-proust.jpg 1.jfif",
+    "Asserts/banner-bradbury.jpg 1.jfif",
+    "Asserts/banner-language.jpg 1.jfif",
+    "04_Journal/2026-02-27.md",
+    "01_Maps/The Bradbury Quartet/The Bradbury Quartet.md",
+    "conflict-files-obsidian-git.md"
+  ]
+}
