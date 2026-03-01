@@ -39,7 +39,7 @@ description: "description: 关于我"
 
 ---
 
-> [!quote] 普鲁斯特先生对饮品的品质非常讲究。首先，绝对不能选用**科瑟莱(Corcellet)**咖啡豆以外的咖啡品牌。而且必须要去位于**列维街(Rue de Lvis)**上烘培豆子的店铺里直接购买，这样才能保证新鲜优质，不失香气。
+> [!quote] 普鲁斯特先生对饮品的品质非常讲究。首先，绝对不能选用科瑟莱(Corcellet)咖啡豆以外的咖啡品牌。而且必须要去位于**列维街(Rue de Lvis)**上烘培豆子的店铺里直接购买，这样才能保证新鲜优质，不失香气。
 > 接着，过滤器也必须是科瑟莱的，绝对不可以换成其他品牌，连小托盘也得用科瑟莱的。为了得到普鲁斯特先生想要的浓咖啡，需要在过滤器中装满磨得很细的，压紧实的咖啡粉末，然后让水缓慢地流过，一滴一滴落下，在这个过程中，所有器具都要泡在热水里保温。
 
 
@@ -55,7 +55,7 @@ description: "description: 关于我"
 
   <a href="/01_Maps/The-Bradbury-Quartet/" style="text-decoration: none; display: block;">
     <div style="border: 1px solid var(--secondary); padding: 2rem; border-radius: 4px;">
-      <div style="font-size: 0.8em; color: var(--gray); margin-bottom: 0.8rem; letter-spacing: 0.1em;">✦ 百科全书式的阅读 / THE 1000 NIGHTS</div>
+      <div style="font-size: 0.8em; color: var(--gray); margin-bottom: 0.8rem; letter-spacing: 0.1em;">✦ 百科全书式的阅读是一种生活方式 / THE 1000 NIGHTS</div>
       <div style="font-size: 1.8em; font-family: var(--headerFont); font-weight: bold; color: var(--secondary);">布拉德雷四重奏 (The Bradbury Quartet)</div>
       <div style="font-size: 0.95em; color: var(--dark); margin-top: 0.8rem; font-style: italic; opacity: 0.8;">“Read one poem, one short story, one essay, for the next 1,000 nights.”</div>
     </div>

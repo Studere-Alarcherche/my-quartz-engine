@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+                "file": "01_Maps/OF PROUST/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基于 Obsidian x Quartz x Git 的网状数字花园搭建指南"
+              "title": "index"
             }
           }
         ]
@@ -83,8 +83,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c98b224067a0ae73",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "筆記本導覽器"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -278,43 +289,45 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:筆記本導覽器": false
     }
   },
   "active": "31db9a1ab8e7352e",
   "lastOpenFiles": [
-    "Essays/20260301-读书、吃.md",
-    "Essays/02-如何做 ：下载-安装GIT&Quartz.md",
-    "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+    "01_Maps/SLA-英语高阶/index.md",
+    "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
+    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
+    "01_Maps/OF PROUST/index.md",
+    "01_Maps/Active_Projects/index.md",
+    "Essays/北归咖仓.md",
     "Essays/index.md",
+    "Essays/越秀公园.md",
+    "Essays/2.24日在广州越秀区.md",
+    "Essays/Sensory鹅卵石咖啡Espresso.md",
+    "Essays/广州 越秀区  最佳自烘焙肯尼亚.md",
+    "广州 越秀区  最佳自烘焙肯尼亚.md",
     "index.md",
+    "Essays/20260301-读书、吃.md",
+    "Pasted image 20260302000015.png",
+    "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+    "Essays/02-如何做 ：下载-安装GIT&Quartz.md",
     "00_System/Prompt Zone/网页发布元数据生成助手.md",
     "Essays/01-为什么我们需要OB+GIT+静态网站.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
     "04_Journal/2026-03-01.md",
     "04_Journal/2026-02-28.md",
-    "01_Maps/OF PROUST/index.md",
     "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
     "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
-    "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
-    "01_Maps/Active_Projects/index.md",
     "01_Maps/Bricks/Character Sheet-The Player.md",
     "01_Maps/Bricks/Intro.md",
     "01_Maps/The Bradbury Quartet/index.md",
-    "01_Maps/SLA-英语高阶/index.md",
     "Essays/01-为什么我们需要OB+GIT+静态网站.md",
-    "00_System/Life OS 岁时记.md",
-    "00_System/North Star Terminal.md",
-    "conflict-files-obsidian-git.md",
-    "04_Journal/2026/2/2026-02-26.md",
     "Essays",
     "01_Maps/The Bradbury Quartet",
     "01_Maps/SLA-英语高阶",
     "01_Maps/OF PROUST/PR-1",
     "01_Maps/OF PROUST",
     "01_Maps/Active_Projects/普鲁斯特系列精读",
-    "04_Journal/2026-02-26.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读.md",
     "Eassays",
     "Asserts/proust-logo.png.jpg",
     "01_Maps/Bricks/Tech",
@@ -329,7 +342,6 @@
     "Pasted image 20260125231041.png",
     "Pasted image 20260125224109.png",
     "Pasted image 20260124011611.png",
-    "Pasted image 20260124010518.png",
     "03-Resources/Brain Storm.canvas",
     "Untitled.canvas"
   ]
