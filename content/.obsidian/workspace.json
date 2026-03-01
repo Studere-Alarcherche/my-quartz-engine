@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/OF PROUST/index.md",
+                "file": "04_Journal/2026-03-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-03-01"
             }
           }
         ]
@@ -283,6 +283,8 @@
   },
   "active": "31db9a1ab8e7352e",
   "lastOpenFiles": [
+    "01_Maps/OF PROUST/index.md",
+    "04_Journal/2026-03-01.md",
     "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
     "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
     "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
@@ -293,7 +295,6 @@
     "01_Maps/Bricks/Character Sheet-The Player.md",
     "01_Maps/Bricks/Intro.md",
     "index.md",
-    "01_Maps/OF PROUST/index.md",
     "01_Maps/The Bradbury Quartet/index.md",
     "01_Maps/SLA-英语高阶/index.md",
     "04_Journal/2026-02-28.md",
@@ -314,7 +315,6 @@
     "01_Maps/Active_Projects/托马斯.曼 阅读专项.md",
     "00_System/00-NAMESPACE.md",
     "00_System/📂 Templates/PBL.md",
-    "01_Maps/Bricks/Literature/PRS01-Vocab.md",
     "Eassays",
     "Asserts/proust-logo.png.jpg",
     "01_Maps/Bricks/Tech",
