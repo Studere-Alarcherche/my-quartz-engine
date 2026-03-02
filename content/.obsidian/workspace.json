@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_System/North Star Terminal.md",
+                "file": "04_Journal/2026-03-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "North Star Terminal"
+              "title": "2026-03-02"
             }
           }
         ]
@@ -294,8 +294,9 @@
   },
   "active": "11400133a53a6c76",
   "lastOpenFiles": [
-    "00_System/Life OS 岁时记.md",
     "00_System/North Star Terminal.md",
+    "04_Journal/2026-03-02.md",
+    "00_System/Life OS 岁时记.md",
     "01_Maps/Bricks/Character Sheet-The Player.md",
     "04_Journal/2026-03-01.md",
     "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
