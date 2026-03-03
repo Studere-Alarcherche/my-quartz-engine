@@ -28,6 +28,7 @@
     "date": "datetime",
     "layer": "number",
     "tex": "multitext",
-    "investment": "number"
+    "investment": "number",
+    "sta": "text"
   }
 }
