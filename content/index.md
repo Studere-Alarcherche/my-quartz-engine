@@ -30,17 +30,24 @@ description: "description: 关于我"
 </div>
 
 <hr style="border: none; border-top: 1px solid rgba(0,0,0,0.05); margin-bottom: 3rem;">
+> [!quote] **馬塞爾·普魯斯特 (Marcel Proust)｜《重現的時光》 (_Le Temps retrouvé_)** 
+> "Il n'en resterait bientôt plus que deux ou three [génies], de ceux qui ne s'apaisent que quand ils ont trouvé entre deux objets, si différents qu'ils soient, l'anneau commun d'une vérité." 
+> 
+> 「在我，等它們一個接一個地被病魔擊倒以後，大概還會剩下兩三個生命力特別頑強的精靈，其中少不了有那麼個哲學家，他只有在兩件藝術品，在兩種感覺之間找出共同之處以後，才會感到快樂。」
 
-> [!quote]  **Longtemps, je me suis couché de bonne heure.**
+> [!quote] **阿比·瓦爾堡 (Aby Warburg)｜《記憶女神圖譜》導言 (_Mnemosyne Einleitung_)**
+>  "Die Bewußtseinsbildung als Distanzschaffung zwischen dem Ich und der Außenwelt darf man wohl als Grunddatum der menschlichen Zivilisationssetzung bezeichnen... der Zwischenraum als Denkraum." 
+>  
+>  「在那些相互關聯的圖像之間的『間隙』（Interval）中，存在著一種思索的空間。只有當圖像不再是單純的視覺印象，而是在與另一幅圖像的對比中顯現出『共同的能量痕跡』時，藝術史才真正開始。」
 
----
+> [!quote] **列維-斯特勞斯 (Claude Lévi-Strauss)｜《結構人類學》 (_Anthropologie structurale_)** 
+> "La méthode structurale consiste à chercher des relations invariantes sous des matériaux divers... pour découvrir la structure logique qui en est le fondement." 
+> 
+> 「如果我們想要理解這些分散、雜亂且表面上毫無邏輯的素材，我們就必須放棄對內容本身的迷戀，轉而去尋找那套控制這些素材進行相互轉換的『總公式』。這種理解的快樂，源於發現萬物背後那套永恆不變的數學美感。」
 
-> [!quote] 在我，等它們一個接一個地被病魔擊倒以後，大概還會剩下兩三個生命力特別頑強的精靈，其中少不了有那麼個哲學家，他只有在兩件藝術品，在兩種感覺之間找出共同之處以後，才會感到快樂。
-
----
-
-> [!quote] 普鲁斯特先生对饮品的品质非常讲究。首先，绝对不能选用科瑟莱(Corcellet)咖啡豆以外的咖啡品牌。而且必须要去位于**列维街(Rue de Lvis)**上烘培豆子的店铺里直接购买，这样才能保证新鲜优质，不失香气。
-> 接着，过滤器也必须是科瑟莱的，绝对不可以换成其他品牌，连小托盘也得用科瑟莱的。为了得到普鲁斯特先生想要的浓咖啡，需要在过滤器中装满磨得很细的，压紧实的咖啡粉末，然后让水缓慢地流过，一滴一滴落下，在这个过程中，所有器具都要泡在热水里保温。
+> [!quote] **列維-斯特勞斯 (Claude Lévi-Strauss)｜《憂鬱的熱帶》 (_Tristes Tropiques_)** 
+> "Le sens n'est jamais dans l'objet isolé, mais dans les relations de réciprocité entre les objets... une vérité qui ne se trouve pas dans une lecture, mais dans la superposition de deux textes." 
+> 「意義從來不處於某個孤立的對象之中，而總是存在於對象之間的相互聯繫裡。真理不是在閱讀一本書時被發現的，而是在將兩本完全不同的書放在一起對比時，那道重合的剪影。」
 
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">

@@ -1,5 +1,5 @@
 ---
-title: 普鲁斯特精读系列
+title: PRSO1-The Task of a Translator
 status: active
 tags:
   - project/pbl
@@ -7,14 +7,14 @@ tags:
   - min/1
   - progress/1
 url: "[[01_Maps/OF PROUST/index|OF PROUST Index]]"
-description: 疾行 疾行
+description: 艺术即为一种‘必然性翻译’的本体论约束
+date: 2026-03-03T23:00:00
+last_pruned:
+daily_input:预设: 50
 ---
-- [ ] P1 3
-- [ ] P2 2
-- [ ] P3 3
+- [ ] 更新已更新所有连载项目  38
+	- [ ] 反向构建不清晰知识点
+		- [ ] 如:Hypotactic Layering 等
 ---
-NEXT EPSIODE
-- 1
-- 2
-- 3
-- 4
+NEXT SEP：：
+- ？

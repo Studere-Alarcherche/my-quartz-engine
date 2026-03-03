@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/SLA-英语高阶/index.md",
+                "file": "01_Maps/Active_Projects/法语阅读专项/Phrase1-读书识字.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,21 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Phrase1-读书识字"
+            }
+          },
+          {
+            "id": "c972b602d4f9bb2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -92,16 +102,6 @@
               "state": {},
               "icon": "notebook-navigator",
               "title": "筆記本導覽器"
-            }
-          },
-          {
-            "id": "5976695a1eb0de85",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "longform",
-              "title": "Longform"
             }
           }
         ]
@@ -305,7 +305,26 @@
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
     "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
+    "01_Maps/Active_Projects/SLA-英语高阶/Index.md",
+    "01_Maps/Active_Projects/THE BRADBURY QUARTET/index.md",
+    "01_Maps/Active_Projects/法语阅读专项/Phrase1-读书识字.md",
+    "00_System/📂 Legacy_Inbox/法语学习预案.md",
+    "01_Maps/Active_Projects/法语阅读专项",
+    "01_Maps/Active_Projects/未命名.md",
+    "01_Maps/SLA-英语高阶/P1B1-The Laws of Nature.md",
+    "01_Maps/SLA-英语高阶/index.md",
+    "01_Maps/SLA-法语阅读专攻/Index.md",
+    "01_Maps/SLA-英语高阶/U1-Entropy & Thermodynamics.md",
+    "01_Maps/The Bradbury Quartet/index.md",
+    "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
+    "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
+    "01_Maps/The Bradbury Quartet/B01.md",
+    "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
+    "01_Maps/OF PROUST/index.md",
     "04_Journal/2026-03-03.md",
+    "index.md",
+    "01_Maps/Bricks/Intro.md",
+    "01_Maps/SLA-法语阅读专攻",
     "00_System/North Star Terminal.md",
     "Essays/04-反向布鲁姆重构螺旋：自上而下&自下而上.md",
     "Essays/03-Quartz VS 常规网页--同与异.md",
@@ -313,34 +332,15 @@
     "Essays/index.md",
     "Essays/Sensory鹅卵石咖啡Espresso.md",
     "Essays/广州 越秀区  最佳自烘焙肯尼亚.md",
-    "Essays/碎片笔记的必要性-Flomo仍然然保留.md",
-    "Essays/越秀公园.md",
-    "Essays/20260301-读书、吃.md",
-    "Essays/01-为什么我们需要OB+GIT+静态网站.md",
-    "Essays/2.24日在广州越秀区.md",
-    "Essays/02-如何做 ：下载-安装GIT&Quartz.md",
-    "Essays/Eassays/Index.md",
-    "Essays/北归咖仓.md",
     "Essays/Eassays",
-    "index.md",
-    "00_System/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
-    "01_Maps/The Bradbury Quartet/index.md",
-    "01_Maps/SLA-英语高阶/index.md",
     "01_Maps/Active_Projects/THE BRADBURY QUARTET",
     "01_Maps/Active_Projects/SLA-英语高阶",
-    "04_Journal/2026-03-02.md",
-    "04_Journal/2026-03-01.md",
-    "01_Maps/Bricks/Intro.md",
-    "00_System/Life OS 岁时记.md",
-    "01_Maps/Bricks/Character Sheet-The Player.md",
     "Pasted image 20260302000015.png",
     "Essays",
     "01_Maps/The Bradbury Quartet",
     "01_Maps/SLA-英语高阶",
     "01_Maps/OF PROUST/PR-1",
     "01_Maps/OF PROUST",
-    "01_Maps/Active_Projects/普鲁斯特系列精读",
-    "Eassays",
     "Asserts/proust-logo.png.jpg",
     "Pasted image 20260226011610.png",
     "Asserts/Pasted image 20260219201554.png",

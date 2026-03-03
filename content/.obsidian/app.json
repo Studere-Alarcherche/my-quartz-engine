@@ -15,5 +15,6 @@
     "public/",
     "quartz/",
     "docs/"
-  ]
+  ],
+  "defaultViewMode": "source"
 }

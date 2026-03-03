@@ -1,14 +1,19 @@
 ---
-title: SLA-英语高阶
-categories:
-tags:
+title: SLA-英文高阶
 aliases:
-  - Language Index
-  - 语言习得索引
-  - 英文自习
+  - English SLA Index
+  - 英文高阶能力
+categories:
+  - SLA
+  - Language
+tags:
+  - AREA/Capacity/Language
+  - AREA/SLA/English
 status: evergreen
 description: 尝试自我学习，尽量革新反思语言学习方法。
 investment: 0
+proficiency: B1
+daily_input:预设: 55
 ---
 > [!quote] 
 > Stat rosa pristina nomine, nomina nuda tenemus.
@@ -18,4 +23,8 @@ investment: 0
 
 ---
 **当前模块**：
-- 
+[[P1B1-The Laws of Nature]]
+
+**待进行：**
+
+
