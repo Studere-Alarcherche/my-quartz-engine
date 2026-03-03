@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Journal/2026-03-03.md",
+                "file": "01_Maps/SLA-英语高阶/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-03"
+              "title": "index"
             }
           }
         ]
@@ -304,8 +304,9 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
-    "00_System/North Star Terminal.md",
+    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
     "04_Journal/2026-03-03.md",
+    "00_System/North Star Terminal.md",
     "Essays/04-反向布鲁姆重构螺旋：自上而下&自下而上.md",
     "Essays/03-Quartz VS 常规网页--同与异.md",
     "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
@@ -332,7 +333,6 @@
     "01_Maps/Bricks/Intro.md",
     "00_System/Life OS 岁时记.md",
     "01_Maps/Bricks/Character Sheet-The Player.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
     "Pasted image 20260302000015.png",
     "Essays",
     "01_Maps/The Bradbury Quartet",
