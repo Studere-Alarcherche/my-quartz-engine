@@ -4,7 +4,10 @@ aliases:
   - Bradbury Index
   - 布拉德雷
 categories:
+  - 阅读札记
 tags:
+  - DeepReading
+  - Reasources/reading
 status: evergreen
 description: 百科全书式的阅读是一种生活方式
 investment: 0
