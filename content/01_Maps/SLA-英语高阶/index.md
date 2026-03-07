@@ -9,7 +9,7 @@ categories:
 tags:
   - AREA/Capacity/Language
   - AREA/SLA/English
-status: active
+status: evergreen
 description: 尝试自我学习，尽量革新反思语言学习方法。
 investment: 0
 proficiency: B1
@@ -23,6 +23,7 @@ daily_input:预设: 55
 
 ---
 **当前模块**：
+
 [[P1B1-The Laws of Nature]]
 
 **待进行：**

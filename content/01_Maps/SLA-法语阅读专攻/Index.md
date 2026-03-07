@@ -9,7 +9,7 @@ categories:
 tags:
   - AREA/Capacity/Language
   - AREA/SLA/French
-status: active
+status: evergreen
 description: 基于自下而上类比逻辑的法语习得进程
 investment: 0
 proficiency/Rading: A0
