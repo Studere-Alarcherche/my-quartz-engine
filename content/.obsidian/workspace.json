@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/The Bradbury Quartet/index.md",
+                "file": "04_Journal/2026-03-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-03-07"
             }
           },
           {
@@ -291,9 +291,7 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
-      "publish:發佈變動內容": false,
       "bases:建立新的 base": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
@@ -304,9 +302,10 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
+    "01_Maps/SLA-法语阅读专攻/Index.md",
+    "04_Journal/2026-03-07.md",
     "01_Maps/The Bradbury Quartet/B01.md",
     "01_Maps/The Bradbury Quartet/index.md",
-    "01_Maps/SLA-法语阅读专攻/Index.md",
     "01_Maps/SLA-英语高阶/index.md",
     "01_Maps/SLA-英语高阶/U1-Entropy & Thermodynamics.md",
     "01_Maps/SLA-英语高阶/P1B1-The Laws of Nature.md",
@@ -331,7 +330,6 @@
     "Essays/03-Quartz VS 常规网页--同与异.md",
     "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
     "Essays/index.md",
-    "Essays/Sensory鹅卵石咖啡Espresso.md",
     "Essays/Eassays",
     "01_Maps/Active_Projects/THE BRADBURY QUARTET",
     "01_Maps/Active_Projects/SLA-英语高阶",

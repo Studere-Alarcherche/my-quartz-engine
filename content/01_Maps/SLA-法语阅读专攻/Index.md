@@ -15,7 +15,7 @@ investment: 0
 proficiency: A0
 daily_input: 1000
 ---
-[!info] **自下而上的法語習得 (Bottom-up French Acquisition)** 語言並非死記硬背，而是通過大量被打散的語料輸入（Comprehensible Input），在模糊的語境中尋找語法與語義的類比。當閱讀量達到臨界點，目錄與索引（即語法感）才會自下而上、緩慢浮現。
+>[!info]**自下而上的法語習得 (Bottom-up French Acquisition)** 語言並非死記硬背，而是通過大量被打散的語料輸入（Comprehensible Input），在模糊的語境中尋找語法與語義的類比。當閱讀量達到臨界點，目錄與索引（即語法感）才會自下而上、緩慢浮現。
 
 ---
 
