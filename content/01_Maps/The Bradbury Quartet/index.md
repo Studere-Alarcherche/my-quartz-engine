@@ -8,7 +8,7 @@ categories:
 tags:
   - DeepReading
   - Reasources/reading
-status: evergreen
+status: active
 description: 百科全书式的阅读是一种生活方式
 investment: 0
 ---

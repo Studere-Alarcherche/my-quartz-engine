@@ -9,7 +9,7 @@ categories:
 tags:
   - AREA/Capacity/Language
   - AREA/SLA/English
-status: evergreen
+status: active
 description: 尝试自我学习，尽量革新反思语言学习方法。
 investment: 0
 proficiency: B1

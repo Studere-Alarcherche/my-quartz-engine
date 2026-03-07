@@ -1,25 +1,47 @@
 ---
-title: 我的秘密研究
-draft: true
+type: Daily_Ledger
+date: <% tp.date.now("YYYY-MM-DD") %>
+focus_hours: 0
+investment_delta: 0
+asset_forged: false
+win_the_day: false
 ---
-# 📅 {{date}}
-> [!TIP] 🧭 Navigation: [[North Star Terminal]]
 
-## 🕹️ System Boot (系统点火)
-- [ ] 💧 Hydrate: 300ml 水
-- [ ] 🧠 Sync: 确认昨日 Chronos 分配的 MVP -> [ ] 执行！
+# 🏛️ Daily Ledger: <% tp.date.now("YYYY-MM-DD") %>
 
-## 📥 The Stream (核心语流)
-*全天流水账记录。时间: A(上午)/P(下午)/N(晚上) | 类型: #D(高阻力) / #W(杂务) / #X(熵增)*
+[!important] 📟 Chronos Daily Audit
+> **Load:** [░░░░░░░░░░] 0 / 30 | **Focus:** 0h | **Oasis:** 🟢/🔴 (21:30 熔断状态)
 
+## 🧾 The Bill 
+> **#D (产出)**: [[项目名]] (0m) | **#G (输入)**: [[项目名]] (0m) | **#X (熵增)**: [具体行为] (0m)
+
+| 目标系统 (Permanent) | 今日动作 (Action)           | 转化状态          | 权重       |
+| :--------------- | :---------------------- | :------------ | :------- |
+| [[项目名]]          | <% tp.file.cursor(1) %> | #G (输入储备)     | x1.0     |
+| [[项目名]]          |                         | **#D (资产固化)** | **x1.5** |
 
 ---
-## 🛑 End of Day Protocol
-> 睡前将上方的 Stream 发给 Chronos AI，并将回复直接粘贴在下方，然后物理断电。
 
-### 📟 LifeOS Daily Audit (Chronos 回执区)
+## Task Clearance
+> 记录从 Active Projects 物理移交给 Permanent Projects 的资产。
 
-[👇 粘贴 AI 每天给你的 Part 0 (明日计划) + Part 1 (审计与洞察)]
+- [ ] [[已固化的文章/论文名]] (已同步至 Digital Garden)
+- [ ] 勾选今日已完成的连载任务
+
+---
+
+## 🎯 The Timebox Plan
 
 
-[👇 粘贴 AI 每天给你的 Part 2 (Auto-Data 数据锚点，这会直接喂养你的 RPG 面板)]
+[ ] 📦 **06:00 - 09:40** | 🔥 [[核心攻坚]]: [具体虚链接任务]
+[ ] 📦 **12:10 - 12:50**  | ⚙️ [[系统维护]]: [环境/碎片/物流]
+[ ] 📦 **19:15 - 21:20** | 🌱 [[资产固化]]: [输出/写作/发布]
+
+[ ] 🛑 **21:30 (Sharp)** | 熔断点: HARD SHUTDOWN (+1.5 Pts)
+
+**🏆 MVP (必须完成的三件事:** 
+- [ ] [[项目名]] - 
+- [ ] 2
+- [ ] 3
+
+---

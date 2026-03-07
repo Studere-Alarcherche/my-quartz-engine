@@ -1,8 +1,9 @@
 ---
-title: Phrase1-读书识字
+title: MOUDLE1-
 aliases:
   - French SLA Index
   - 法语阅读专攻
+  - MOUDLE
 categories:
   - SLA
   - Language
