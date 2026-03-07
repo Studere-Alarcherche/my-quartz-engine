@@ -22,9 +22,9 @@ sta:
 **进行中：**
 - French for reading  
 	- 每天刷 1-2 个章节（全书共 21 章）
-		- [ ] C1-C5  2-3  40m/D
+		- [x] C1-C5  2-3  40m/D ✅ 2026-03-07
 - 整理相关材料倒入Notebooklm
-	- [ ] 《French for Reading》
-	- [ ] 《English Grammar for Students of French》 / 《French Grammar for Beginners with Comparisons to English》
+	- [x] 《French for Reading》 ✅ 2026-03-07
+	- [x] 《English Grammar for Students of French》 / 《French Grammar for Beginners with Comparisons to English》 ✅ 2026-03-07
 
 **待进行：**

@@ -16,4 +16,4 @@ investment: 0
 #### [[PRS01-Vocab]]
 
 **当前模块：**
-- 
+- [[fa]]

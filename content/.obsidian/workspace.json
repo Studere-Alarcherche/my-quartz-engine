@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Journal/2026-03-07.md",
+                "file": "01_Maps/OF PROUST/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-07"
+              "title": "index"
             }
           },
           {
@@ -302,16 +302,21 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
-    "01_Maps/SLA-法语阅读专攻/Index.md",
+    "01_Maps/Active_Projects/法语阅读专项/index.md",
+    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
     "04_Journal/2026-03-07.md",
+    "01_Maps/Bricks/Character Sheet-The Player.md",
     "01_Maps/The Bradbury Quartet/B01.md",
+    "04_Journal/2026-03-03.md",
     "01_Maps/The Bradbury Quartet/index.md",
     "01_Maps/SLA-英语高阶/index.md",
+    "01_Maps/Bricks/Intro.md",
+    "01_Maps/OF PROUST/index.md",
+    "01_Maps/SLA-法语阅读专攻/index.md",
+    "01_Maps/Seeds/Strategic Seed Bank (灵感孵化器).md",
     "01_Maps/SLA-英语高阶/U1-Entropy & Thermodynamics.md",
     "01_Maps/SLA-英语高阶/P1B1-The Laws of Nature.md",
     "01_Maps/Active_Projects/SLA-英语高阶/Index.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
-    "01_Maps/Active_Projects/法语阅读专项/index.md",
     "01_Maps/Active_Projects/法语阅读专项/Phrase1-读书识字.md",
     "01_Maps/Active_Projects/THE BRADBURY QUARTET/index.md",
     "index.md",
@@ -321,15 +326,10 @@
     "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
     "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
     "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
-    "01_Maps/OF PROUST/index.md",
-    "04_Journal/2026-03-03.md",
-    "01_Maps/Bricks/Intro.md",
     "01_Maps/SLA-法语阅读专攻",
     "00_System/North Star Terminal.md",
     "Essays/04-反向布鲁姆重构螺旋：自上而下&自下而上.md",
     "Essays/03-Quartz VS 常规网页--同与异.md",
-    "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
-    "Essays/index.md",
     "Essays/Eassays",
     "01_Maps/Active_Projects/THE BRADBURY QUARTET",
     "01_Maps/Active_Projects/SLA-英语高阶",
