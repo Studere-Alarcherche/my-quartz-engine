@@ -11,21 +11,9 @@
             "id": "844b9c3004b40bf9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Asserts/proust-logo.png.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "proust-logo.png"
-            }
-          },
-          {
-            "id": "f093ff19a98ae1b2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "index"
+            }
+          },
+          {
+            "id": "f093ff19a98ae1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Maps/SLA-英语高阶/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -53,8 +65,7 @@
               "title": "新分頁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,8 +255,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -289,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -313,26 +324,26 @@
       "notebook-navigator:筆記本導覽器": false
     }
   },
-  "active": "f093ff19a98ae1b2",
+  "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
+    "01_Maps/The Bradbury Quartet/index.md",
+    "01_Maps/SLA-英语高阶/index.md",
+    "01_Maps/SLA-法语阅读专攻/index.md",
+    "01_Maps/OF PROUST/index.md",
+    "01_Maps/Active_Projects/THE BRADBURY QUARTET/index.md",
+    "01_Maps/Active_Projects/SLA-英语高阶/Index.md",
+    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
+    "Asserts/proust-logo.png.jpg",
+    "未命名.md",
     "01_Maps/SLA-英语高阶/P1B1-The Laws of Nature.md",
     "01_Maps/The Bradbury Quartet/B01.md",
-    "01_Maps/The Bradbury Quartet/index.md",
-    "01_Maps/Active_Projects/THE BRADBURY QUARTET/index.md",
     "BO1.md",
     "01_Maps/Active_Projects/法语阅读专项/index.md",
-    "01_Maps/Active_Projects/普鲁斯特系列精读/index.md",
-    "01_Maps/Active_Projects/SLA-英语高阶/Index.md",
-    "01_Maps/SLA-法语阅读专攻/index.md",
-    "未命名.md",
-    "Asserts/proust-logo.png.jpg",
     "Asserts/Pasted image 20260219201554.png",
     "Essays/20260301-读书、吃.md",
-    "01_Maps/OF PROUST/index.md",
     "04_Journal/2026-03-07.md",
     "01_Maps/Bricks/Character Sheet-The Player.md",
     "04_Journal/2026-03-03.md",
-    "01_Maps/SLA-英语高阶/index.md",
     "01_Maps/Bricks/Intro.md",
     "01_Maps/Seeds/Strategic Seed Bank (灵感孵化器).md",
     "01_Maps/SLA-英语高阶/U1-Entropy & Thermodynamics.md",
@@ -343,7 +354,6 @@
     "01_Maps/Active_Projects/未命名.md",
     "01_Maps/OF PROUST/PR-1/PRS00-INTRO.md",
     "01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator.md",
-    "01_Maps/OF PROUST/PR-1/PRS01-Vocab.md",
     "01_Maps/SLA-法语阅读专攻",
     "Essays/Eassays",
     "01_Maps/Active_Projects/THE BRADBURY QUARTET",
