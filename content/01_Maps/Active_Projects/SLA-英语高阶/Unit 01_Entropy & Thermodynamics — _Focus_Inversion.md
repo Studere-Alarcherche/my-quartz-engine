@@ -1,5 +1,5 @@
 ---
-title: "Entropy & Thermodynamics: 熵增背景下的生命"
+title: "Entropy & Thermodynamics: 熵增"
 slug: entropy-and-the-paradox-of-life
 aliases:
   - 热力学第二定律

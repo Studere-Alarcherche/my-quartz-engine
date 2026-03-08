@@ -1,3 +1,77 @@
+- **任务：** 5–7 句高密度长难句拆解。
+    
+- **方法：** **4-Tier Friction (四阶摩擦法)**。
+    
+    1. **Recognition:** 锁定主谓。
+        
+    2. **Deconstruction:** 剥离 7 大逻辑宝石。
+        
+    3. **Translation:** 意译为“人话”。
+        
+    4. **Reverse Bridge:** 反向重构还原。
+        
+- **产出：** `Unit_XXX_Syntax.md`
+    
+
+### 🟡 Stage 2: Logic Weaver (逻辑编织)
+
+### 🧱 Book I: Laws of Nature (Syntax Focus)
+
+- [[Unit 01_Entropy & Thermodynamics — _Focus_Inversion]]
+    
+- **Unit 02: Plate Tectonics & Geology** — _Focus: Causality Chain_
+    
+- **Unit 03: Orbital Mechanics** — _Focus: Comparison_
+    
+- **Unit 04: Quantum Uncertainty** — _Focus: Concession_
+    
+- **Unit 05: Cellular Metabolism** — _Focus: Nested Modification_
+    
+- **Unit 06: Genetic Variance** — _Focus: Virtual_
+    
+- **Unit 07: Symbiotic Systems** — _Focus: Interdependence_
+    
+- **Unit 08: Neuroscience & Synapses** — _Focus: Process Mapping_
+    
+
+### 👥 Book II: Human Condition (Syntax Focus)
+
+- **Unit 09: Urban Origins** — _Focus: Abstract Noun_
+    
+- **Unit 10: Empire Collapse** — _Focus: Multivariable Causality_
+    
+- **Unit 11: Anthropological Rituals** — _Focus: Symbolic Logic_
+    
+- **Unit 12: Behavioral Economics** — _Focus: Comparison Trap_
+    
+- **Unit 13: Cognitive Bias** — _Focus: Recursive Logic_
+    
+- **Unit 14: Market Dynamics** — _Focus: Equilibrium & Flux_
+    
+- **Unit 15: Social Stratification** — _Focus: Structural Analysis_
+    
+
+### 🧠 Book III: Abstract Mind (Syntax Focus)
+
+- **Unit 16: Constitutional Theory** — _Focus: Virtual & Inversion_
+    
+- **Unit 17: International Relations** — _Focus: Strategic Paradox_
+    
+- **Unit 18: Political Philosophy** — _Focus: Axiomatic Deduction_
+    
+- **Unit 19: Abstractionism** — _Focus: Abstract Noun_
+    
+- **Unit 20: Architectural Theory** — _Focus: Spatial Logic_
+    
+- **Unit 21: Linguistic Evolution** — _Focus: Diachronic Analysis_
+    
+- **Unit 22: AI Consciousness** — _Focus: Hypothetical Reasoning_
+    
+- **Unit 23: Bio-engineering Ethics** — _Focus: Ethical Dilemma_
+    
+- **Unit 24: Algorithmic Bias** — _Focus: Systemic Feedback_
+    
+
 # 🔴 SYSTEM PROMPT: THE ARENA (Razor Codex v4.0)
 
 **TRIGGER:** `>> SWITCH: TEST` (or `>> TEST`) + [Optional: Topic / Logic]
@@ -150,3 +224,4 @@ Tags: #Academia/[Book_ID] #Syntax/[Logic_Primary] #Syntax/[Logic_Secondary] #Sta
 
 
 现在，你可以随时输入 `>> TEST` 来生产你的第一页教材了。
+

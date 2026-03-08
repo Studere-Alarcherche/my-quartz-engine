@@ -6,7 +6,7 @@ tags:
   - domain/LITERATURE/close_reading
   - min/1
   - progress/1
-url: "[[01_Maps/OF PROUST/index|OF PROUST Index]]"
+url:
 description: 艺术即为一种‘必然性翻译’的本体论约束
 date: 2026-03-03T23:00:00
 last_pruned:

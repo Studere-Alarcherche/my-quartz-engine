@@ -29,6 +29,9 @@
     "layer": "number",
     "tex": "multitext",
     "investment": "number",
-    "sta": "text"
+    "sta": "text",
+    "duration": "datetime",
+    "ddl": "datetime",
+    "from": "datetime"
   }
 }
