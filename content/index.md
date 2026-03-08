@@ -28,6 +28,7 @@ description: "description: 关于我"
   </a>
 
 </div>
+
 > [!abstract] 🖋️ Marcel Proust 
 > **《重現的時光》 (Le Temps retrouvé)**
 > ***
@@ -68,15 +69,8 @@ description: "description: 关于我"
     </div>
   </a>
 
-  <a href="/01_Maps/渐进式语言教材-英文/" style="text-decoration: none; display: block;">
-    <div style="border: 1px solid var(--secondary); padding: 2rem; border-radius: 4px;">
-      <div style="font-size: 0.8em; color: var(--gray); margin-bottom: 0.8rem; letter-spacing: 0.1em;">✦ 语言架构 / THE FOUNDATION</div>
-      <div style="font-size: 1.8em; font-family: var(--headerFont); font-weight: bold; color: var(--secondary);">渐进式语言教材 - 英文</div>
-      <div style="font-size: 0.95em; color: var(--dark); margin-top: 0.8rem;">从语法切片到语用逻辑，复刻阅读深度的双轨路径。</div>
-    </div>
   </a>
 
-</div>
 
 <div style="text-align: center; margin-top: 5rem; margin-bottom: 3rem;">
   <a href="/Essays/" style="text-decoration: none; color: var(--gray); font-size: 0.85em; letter-spacing: 0.3em; text-transform: uppercase; border-bottom: 1px solid var(--gray);">
