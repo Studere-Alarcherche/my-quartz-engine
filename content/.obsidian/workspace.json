@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
+                "file": "01_Maps/The Bradbury Quartet/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《非穷尽列举》 Inter Aliazh专题系列"
+              "title": "index"
             }
           }
         ]
@@ -292,8 +292,8 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
-    "01_Maps/The Bradbury Quartet/BO1/B01.md",
     "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
+    "01_Maps/The Bradbury Quartet/BO1/B01.md",
     "04_Journal/2026-03-09.md",
     "01_Maps/Active_Projects/法语阅读专项/index.md",
     "01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎.md",
