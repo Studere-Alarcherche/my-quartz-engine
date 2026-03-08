@@ -11,9 +11,9 @@ description: 以7卷本为书册整体 细读各环节为章节  裁定选取不
 status: evergreen
 investment: 0
 ---
-## 0.[[PRS00-INTRO]] 
+## PRE0-[[PRE0-INTRO]] 
 ### [[切片01-The Task of a Translator]]
 #### [[PRS01-Vocab]]
 
 **当前模块：**
-- [[fa]]
+- 
