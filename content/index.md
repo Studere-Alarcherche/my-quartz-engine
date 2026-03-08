@@ -28,12 +28,11 @@ description: "description: 关于我"
   </a>
 
 </div>
-
-<hr style="border: none; border-top: 1px solid rgba(0,0,0,0.05); margin-bottom: 3rem;">
 > [!quote] **馬塞爾·普魯斯特 (Marcel Proust)｜《重現的時光》 (_Le Temps retrouvé_)** 
 > "Il n'en resterait bientôt plus que deux ou three [génies], de ceux qui ne s'apaisent que quand ils ont trouvé entre deux objets, si différents qu'ils soient, l'anneau commun d'une vérité." 
 >
 > 「在我，等它們一個接一個地被病魔擊倒以後，大概還會剩下兩三個生命力特別頑強的精靈，其中少不了有那麼個哲學家，他只有在兩件藝術品，在兩種感覺之間找出共同之處以後，才會感到快樂。」
+
 
 > [!quote] **阿比·瓦爾堡 (Aby Warburg)｜《記憶女神圖譜》導言 (_Mnemosyne Einleitung_)**
 >  "Die Bewußtseinsbildung als Distanzschaffung zwischen dem Ich und der Außenwelt darf man wohl als Grunddatum der menschlichen Zivilisationssetzung bezeichnen... der Zwischenraum als Denkraum." 
@@ -48,7 +47,6 @@ description: "description: 关于我"
 > [!quote] **列維-斯特勞斯 (Claude Lévi-Strauss)｜《憂鬱的熱帶》 (_Tristes Tropiques_)** 
 > "Le sens n'est jamais dans l'objet isolé, mais dans les relations de réciprocité entre les objets... une vérité qui ne se trouve pas dans une lecture, mais dans la superposition de deux textes." 
 > 「意義從來不處於某個孤立的對象之中，而總是存在於對象之間的相互聯繫裡。真理不是在閱讀一本書時被發現的，而是在將兩本完全不同的書放在一起對比時，那道重合的剪影。」
-
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
 
