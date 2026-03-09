@@ -29,6 +29,7 @@ pathosformel: 大纲演绎
 
 - 1.1 Unit 01_Cognate Mapping — _Trans-linguistic Inheritance (C1)
 	- 1.1.1[[🏛️ M1U101：名词后缀的平行迁移 (Nouns 01-18)]]
+		- [[1.1.1EC 附录]]
 	- 1.1.2[[🧬 M1U102：形容词后缀的形变折叠 (Adjectives 19-34)]]
 	- 1.1.3[[⚙️ M1U103：动词后缀的转换 (Verbs 35-40)]]
 	- 1.1.4[[🏛️ M1U104：拼写变体 (Orthography 41-50)]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Journal/2026-03-09.md",
+                "file": "1.1.1EC 附录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-09"
+              "title": "1.1.1EC 附录"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8429ec4e85488a51",
@@ -270,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,35 +294,35 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
+    "01_Maps/Active_Projects/法语阅读专项/index.md",
+    "1.1.1EC 附录.md",
+    "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎.md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/🏛️ M1U101：名词后缀的平行迁移 (Nouns 01-18).md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/🧬 M1U102：形容词后缀的形变折叠 (Adjectives 19-34).md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/🌌 M1U110Chez 的多维映射 (The Dimensional Jump of Chez).md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/⚙️ M1U103：动词后缀的转换 (Verbs 35-40).md",
     "01_Maps/The Bradbury Quartet/BO1/B01.md",
+    "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
+    "00_System/Prompt Zone/布拉德雷四重奏.md",
+    "00_System/Prompt Zone/普鲁斯特精读专用.md",
+    "00_System/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
+    "00_System/Prompt Zone/🧬LifeOS Kernel v2.2.Omni-Architect.md",
+    "00_System/📂 Legacy_Inbox/🔥 Level 0-The Anti-Vision.md",
+    "00_System/📂 Protocols/00-Philosophy.md",
+    "00_System/Prompt Zone/网页发布元数据生成助手.md",
+    "00_System/Prompt Zone/逆向工程建构--反推.md",
+    "04_Journal/2026-03-09.md",
     "01_Maps/The Bradbury Quartet/index.md",
     "Essays/index.md",
-    "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
-    "04_Journal/2026-03-09.md",
-    "01_Maps/Active_Projects/法语阅读专项/index.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎.md",
     "01_Maps/The Bradbury Quartet/BO1",
     "index.md",
     "Essays/01-为什么我们需要OB+GIT+静态网站.md",
     "01_Maps/Language Hub.md",
     "01_Maps/Language Hub/未命名.md",
     "The Curriculum 法语阅读：四维阵列.md",
-    "01_Maps/Active_Projects/SLA-英语高阶/P1/B1-The Laws of Nature.md",
-    "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
     "01_Maps/Language Hub",
-    "01_Maps/Active_Projects/SLA-英语高阶/英文教材编写总纲.md",
-    "01_Maps/Active_Projects/SLA-英语高阶/index.md",
-    "01_Maps/OF PROUST/index.md",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",
-    "01_Maps/Active_Projects/法语阅读专项/M1/👁️M1U112C19 VS C20.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🖼️M1U109 “范围”&“程度”【逻辑的精度】.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🏛️ M1U101：名词后缀的平行迁移 (Nouns 01-18).md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🔗 M1U111复合介词与逻辑语块 (Complex Blocks).md",
-    "🌪️ M1U107/Prendre 家族 (捕获、演变与介入).md",
-    "🔗 M1U111/复合介词与逻辑语块 (Complex Blocks).md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🌪️ M1U107Prendre 家族 (捕获、演变与介入).md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🎛️ M1U108闪转其词.md",
-    "🎛️ M1U108/闪转其词.md",
     "🔗 M1U111",
     "🎛️ M1U108",
     "🌪️ M1U107",
