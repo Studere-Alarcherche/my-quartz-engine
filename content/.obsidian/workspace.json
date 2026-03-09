@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1.1EC 附录.md",
+                "file": "01_Maps/Active_Projects/法语阅读专项/M1/1.1.1EC 附录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -270,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,10 +290,10 @@
       "notebook-navigator:筆記本導覽器": false
     }
   },
-  "active": "844b9c3004b40bf9",
+  "active": "2af6f86969af9b2d",
   "lastOpenFiles": [
     "01_Maps/Active_Projects/法语阅读专项/index.md",
-    "1.1.1EC 附录.md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.1EC 附录.md",
     "00_System/Prompt Zone/11.md",
     "01_Maps/Active_Projects/法语阅读专项/M1/⚙️ M1U103：动词后缀的转换 (Verbs 35-40).md",
     "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
