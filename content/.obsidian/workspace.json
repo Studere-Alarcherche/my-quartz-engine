@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Maps/The Bradbury Quartet/index.md",
+                "file": "04_Journal/2026-03-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-03-09"
             }
           }
         ]
@@ -292,12 +292,13 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
-    "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
     "01_Maps/The Bradbury Quartet/BO1/B01.md",
+    "01_Maps/The Bradbury Quartet/index.md",
+    "Essays/index.md",
+    "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
     "04_Journal/2026-03-09.md",
     "01_Maps/Active_Projects/法语阅读专项/index.md",
     "01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎.md",
-    "01_Maps/The Bradbury Quartet/index.md",
     "01_Maps/The Bradbury Quartet/BO1",
     "index.md",
     "Essays/01-为什么我们需要OB+GIT+静态网站.md",
@@ -320,7 +321,6 @@
     "01_Maps/Active_Projects/法语阅读专项/M1/🌪️ M1U107Prendre 家族 (捕获、演变与介入).md",
     "01_Maps/Active_Projects/法语阅读专项/M1/🎛️ M1U108闪转其词.md",
     "🎛️ M1U108/闪转其词.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🕸️ M1U106Tenir 家族 (凝聚、锚定与依附).md",
     "🔗 M1U111",
     "🎛️ M1U108",
     "🌪️ M1U107",
