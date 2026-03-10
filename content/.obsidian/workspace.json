@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Journal/2026-03-10.md",
+                "file": "01_Maps/Active_Projects/法语阅读专项/M1/1.1.2EC附录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-10"
+              "title": "1.1.2EC附录"
             }
           }
         ]
@@ -292,10 +292,11 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
-    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.1EC 附录.md",
-    "04_Journal/2026-03-10.md",
     "01_Maps/Active_Projects/法语阅读专项/index.md",
     "00_System/Prompt Zone/11.md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.2EC附录.md",
+    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.1EC 附录.md",
+    "04_Journal/2026-03-10.md",
     "01_Maps/Active_Projects/法语阅读专项/M1/⚙️ M1U103：动词后缀的转换 (Verbs 35-40).md",
     "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
     "01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎.md",
@@ -318,7 +319,6 @@
     "01_Maps/The Bradbury Quartet/BO1",
     "index.md",
     "Essays/01-为什么我们需要OB+GIT+静态网站.md",
-    "01_Maps/Language Hub.md",
     "01_Maps/Language Hub",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",
     "🔗 M1U111",
