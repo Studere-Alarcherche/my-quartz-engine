@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "字数大概.md",
+                "file": "04_Journal/2026-03-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "字数大概"
+              "title": "2026-03-16"
             }
           }
         ]
@@ -292,8 +292,9 @@
   },
   "active": "844b9c3004b40bf9",
   "lastOpenFiles": [
-    "01_Maps/Active_Projects/法语阅读专项/index.md",
     "字数大概.md",
+    "04_Journal/2026-03-16.md",
+    "01_Maps/Active_Projects/法语阅读专项/index.md",
     "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
     "04_Journal/2026-03-13.md",
     "01_Maps/Active_Projects/法语阅读专项/M1/1.1.2EC附录.md",
@@ -317,7 +318,6 @@
     "00_System/Prompt Zone/逆向工程建构--反推.md",
     "04_Journal/2026-03-09.md",
     "01_Maps/The Bradbury Quartet/index.md",
-    "Essays/index.md",
     "01_Maps/The Bradbury Quartet/BO1",
     "01_Maps/Language Hub",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",
