@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Journal/2026-03-25.md",
+                "file": "字数大概.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-25"
+              "title": "字数大概"
             }
           }
         ],
@@ -315,15 +315,16 @@
       "notebook-navigator:筆記本導覽器": false
     }
   },
-  "active": "95e0eec0b1d6bc9c",
+  "active": "4f0186bf89f272a0",
   "lastOpenFiles": [
+    "字数大概.md",
+    "2026-03-25.md",
     "00_System/Prompt Zone/自然习得提案.md",
     "04_Journal/2026-03-25.md",
     "00_System/Prompt Zone/布拉德雷四重奏.md",
     "00_System/Prompt Zone/11.md",
     "未命名.md",
     "04_Journal/2026-03-16.md",
-    "字数大概.md",
     "01_Maps/Active_Projects/法语阅读专项/index.md",
     "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
     "04_Journal/2026-03-13.md",
@@ -342,7 +343,6 @@
     "00_System/Prompt Zone/🧬LifeOS Kernel v2.2.Omni-Architect.md",
     "00_System/📂 Legacy_Inbox/🔥 Level 0-The Anti-Vision.md",
     "00_System/📂 Protocols/00-Philosophy.md",
-    "00_System/Prompt Zone/网页发布元数据生成助手.md",
     "01_Maps/The Bradbury Quartet/BO1",
     "01_Maps/Language Hub",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",
