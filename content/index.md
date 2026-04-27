@@ -2,7 +2,6 @@
 title: Proustian 2.0
 description: Proustian 2.0 course-garden entrance
 ---
-
 # Proustian 2.0
 
 This is the open atlas entrance for the Proustian 2.0 course-garden.
