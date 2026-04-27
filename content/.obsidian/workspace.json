@@ -15,7 +15,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -81,7 +81,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           },
           {
@@ -94,8 +94,7 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,8 +211,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -301,12 +300,16 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "eca6d749a8e04cab",
+  "active": "95e0eec0b1d6bc9c",
   "lastOpenFiles": [
+    "00-HQ/📂 Legacy_Inbox/🌟Level 100- The Cognitive Athlete.md",
+    "00-HQ/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
+    "02-Course/Six-Units.md",
+    "04-Readings/Reading-Tasks.md",
+    "index.md",
     "90-Essays.md",
     "00-HQ/Dashboard.md",
     "00-HQ/Command-Center.md",
-    "04-Readings/Reading-Tasks.md",
     "04-Readings/Source-Claims.md",
     "04-Readings/French-Anchors.md",
     "04-Readings/Bibliography.md",
@@ -324,12 +327,8 @@
     "01-Atlas/Constellations.md",
     "01-Atlas/Question-Gradient.md",
     "01-Atlas/Course-Thesis.md",
-    "02-Course/Six-Units.md",
-    "index.md",
     "00-HQ/📂 Templates/Weekly Review.md",
     "00-HQ/📂 Protocols/00-Philosophy.md",
-    "02-Course/Course-Intro.md",
-    "03-Modules/Visual-Module.md",
     "01_Maps/The Bradbury Quartet/BO1",
     "01_Maps/Language Hub",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",

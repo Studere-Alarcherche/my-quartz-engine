@@ -2,10 +2,6 @@
 title: Proustian 2.0
 description: Proustian 2.0 course-garden entrance
 ---
----
-title: Proustian 2.0
----
-
 # Proustian 2.0
 
 > 在我，等它们一个接一个地被病魔击倒以后，  
