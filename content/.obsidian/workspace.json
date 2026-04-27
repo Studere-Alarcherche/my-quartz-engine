@@ -63,15 +63,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Area/language/法语",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "搜索"
             }
           },
           {
@@ -90,11 +90,12 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-12 的反向連結"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -300,34 +301,35 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "95e0eec0b1d6bc9c",
+  "active": "eca6d749a8e04cab",
   "lastOpenFiles": [
+    "90-Essays.md",
+    "00-HQ/Dashboard.md",
+    "00-HQ/Command-Center.md",
+    "04-Readings/Reading-Tasks.md",
+    "04-Readings/Source-Claims.md",
+    "04-Readings/French-Anchors.md",
+    "04-Readings/Bibliography.md",
+    "06-Logs/Version-History.md",
+    "01-Atlas/OF PROUST/未命名.canvas",
+    "06-Logs/Current-Week.md",
+    "06-Logs/Build-Log.md",
+    "06-Logs/2026-03-25.md",
+    "03-Modules/字数大概.md",
+    "03-Modules/Module-Extraction.md",
+    "02-Course/Syllabus-16-Weeks.md",
+    "02-Course/Syllabus-12-Weeks.md",
+    "01-Atlas/Reading-Map.md",
+    "01-Atlas/New-Tendrils.md",
+    "01-Atlas/Constellations.md",
+    "01-Atlas/Question-Gradient.md",
     "01-Atlas/Course-Thesis.md",
+    "02-Course/Six-Units.md",
     "index.md",
     "00-HQ/📂 Templates/Weekly Review.md",
     "00-HQ/📂 Protocols/00-Philosophy.md",
-    "01-Atlas/Question-Gradient.md",
     "02-Course/Course-Intro.md",
-    "02-Course/Syllabus-12-Weeks.md",
-    "02-Course/Six-Units.md",
     "03-Modules/Visual-Module.md",
-    "03-Modules/Text-Module.md",
-    "03-Modules/Space-Sensory-Module.md",
-    "03-Modules/Music-Module.md",
-    "03-Modules/Module-Extraction.md",
-    "03-Modules/字数大概.md",
-    "字数大概.md",
-    "2026-03-25.md",
-    "00_System/Prompt Zone/自然习得提案.md",
-    "04_Journal/2026-03-25.md",
-    "00_System/Prompt Zone/布拉德雷四重奏.md",
-    "00_System/Prompt Zone/11.md",
-    "未命名.md",
-    "04_Journal/2026-03-16.md",
-    "01_Maps/Active_Projects/法语阅读专项/index.md",
-    "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
-    "04_Journal/2026-03-13.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.2EC附录.md",
     "01_Maps/The Bradbury Quartet/BO1",
     "01_Maps/Language Hub",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",

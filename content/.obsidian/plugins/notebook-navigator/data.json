@@ -138,7 +138,7 @@
   "propertySortOrder": "alpha-asc",
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
