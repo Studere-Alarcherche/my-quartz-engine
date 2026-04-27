@@ -24,11 +24,11 @@ graph TD
     %% 节点定义
     WarRoom("⚔️ LifeOS War Room<br>(战况中枢/算力结算)"):::kernel
     Index("👁️ index.md<br>(观测站大门)"):::kernel
-    Sys("00_System<br>(底层引擎/协议)"):::void
-    Map("01_Maps<br>(核心星系/永续资产)"):::cosmos
+    Sys("00-HQ<br>(底层引擎/协议)"):::void
+    Map("01-Atlas<br>(核心星系/永续资产)"):::cosmos
     Proj("02_Active_Projects<br>(锻造炉/交火战线)"):::action
     Jnl("04_Journal<br>(时间线/输入源)"):::stream
-    Arc("99_Archive<br>(历史墓地)"):::void
+    Arc("99-Archive<br>(历史墓地)"):::void
 
     %% 流程连接
     Jnl -->|"1. 捕获流水 & 算力"| WarRoom
@@ -62,7 +62,7 @@ graph TD
 
 ## 📂 空间总纲：极致降维的五大星区
 
-为了彻底消灭视觉噪音与认知熵增，系统已进行“星系折叠”。所有的碎化概念（Bricks）与灵感（Seeds）全部收束于 `01_Maps` 内部。
+为了彻底消灭视觉噪音与认知熵增，系统已进行“星系折叠”。所有的碎化概念（Bricks）与灵感（Seeds）全部收束于 `01-Atlas` 内部。
 
 ### 👁️ The Command Center —— 【中枢与大门】 (Global Files)
 
@@ -77,7 +77,7 @@ graph TD
 - **心法**：这是每天清晨睁眼后、每晚闭眼前唯一需要凝视的屏幕。
     
 
-### ⚙️ 00_System —— 【底层引擎】 (Kernel)
+### ⚙️ 00-HQ —— 【底层引擎】 (Kernel)
 
 - **地位**：Hidden (绝对后台)。
     
@@ -88,7 +88,7 @@ graph TD
 - **心法**：它是网站网页上的“隐形人”，严禁任何前台知识资产混入此处。
     
 
-### 🌌 01_Maps —— 【核心星系】 (The Constellations)
+### 🌌 01-Atlas —— 【核心星系】 (The Constellations)
 
 - **地位**：Eternal (永恒资产)。
     
@@ -127,7 +127,7 @@ graph TD
 - **心法**：绝对的“零阻力”输入区。不要在此处思考排版，只管倾泻。
     
 
-### 🪦 99_Archive —— 【历史墓地】 (The Graveyard)
+### 🪦 99-Archive —— 【历史墓地】 (The Graveyard)
 
 - **地位**：Dead (冷冻库)。
     
@@ -150,11 +150,11 @@ graph TD
 
 ### 3. 燃烧 (Forge) -> `02_Active_Projects`
 
-根据 War Room 的指令，进入对应的项目中疯狂输出。在推进项目的过程中，把提炼出来的核心 SOP 或概念，抽取出来存入 `01_Maps/Bricks`。
+根据 War Room 的指令，进入对应的项目中疯狂输出。在推进项目的过程中，把提炼出来的核心 SOP 或概念，抽取出来存入 `01-Atlas/Bricks`。
 
-### 4. 升维 (Constellate) -> `01_Maps`
+### 4. 升维 (Constellate) -> `01-Atlas`
 
-当项目进度达到 100%，项目本体被扔进 `99_Archive` 销毁。但它产生的 `Bricks` 已经永远留在了 `01_Maps` 的星空里，成为普鲁斯特或布拉德雷星系的一部分。
+当项目进度达到 100%，项目本体被扔进 `99-Archive` 销毁。但它产生的 `Bricks` 已经永远留在了 `01-Atlas` 的星空里，成为普鲁斯特或布拉德雷星系的一部分。
 
 ---
 
@@ -174,4 +174,3 @@ graph TD
 ---
 
 > _System Online v3.0. The Forge is hot. The Maps are expanding._
-
