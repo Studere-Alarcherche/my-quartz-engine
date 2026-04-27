@@ -1,80 +1,96 @@
 ---
 title: Proustian
-description: "description: 关于我"
+description: "Proustian 2.0 course-garden atlas"
 ---
 
+# Proustian Atlas
 
-<div style="text-align: center; margin-bottom: 3rem; margin-top: 2rem;">
-  <div style="font-family: var(--headerFont); font-size: 2.5em; letter-spacing: 0.2em; color: var(--secondary); font-weight: bold;">ALARCHERCHE</div>
-  <div style="font-size: 0.9em; color: var(--gray); margin-top: 0.5rem; letter-spacing: 0.1em;">关于我 · V1.0 · 2026</div>
-</div>
+## Opening / Identity
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 3rem;">
-  
-  <a href="/01_Maps/Active_Projects/" style="text-decoration: none; display: block;">
-    <div style="border: 1px solid var(--secondary); padding: 1.2rem; border-radius: 4px; background: rgba(var(--secondary-rgb), 0.03); border-left: 4px solid var(--secondary); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 0.7em; color: var(--gray); letter-spacing: 0.15em; margin-bottom: 0.5rem; text-transform: uppercase;">⌬ Backend Control</div>
-      <div style="font-size: 1.1em; color: var(--secondary); font-weight: bold;">Active Projects</div>
-      <div style="font-size: 0.8em; color: var(--dark); margin-top: 0.4rem; opacity: 0.7;">追踪耗时、心智投入与任务矩阵</div>
-    </div>
-  </a>
+Proustian 2.0 is a course-garden for slow reading, language, memory, and form.
 
-  <a href="/99_Archive/" style="text-decoration: none; display: block;">
-    <div style="border: 1px solid var(--gray); padding: 1.2rem; border-radius: 4px; background: transparent; border-left: 4px solid var(--gray); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'">
-      <div style="font-size: 0.7em; color: var(--gray); letter-spacing: 0.15em; margin-bottom: 0.5rem; text-transform: uppercase;">☖ Cold Storage</div>
-      <div style="font-size: 1.1em; color: var(--gray); font-weight: bold;">Historical Archive</div>
-      <div style="font-size: 0.8em; color: var(--dark); margin-top: 0.4rem; opacity: 0.7;">已封存</div>
-    </div>
-  </a>
+It is not a blog. It is not a finished syllabus.
 
-</div>
+It is an atlas for entering a living body of courses, maps, fragments, and unfinished routes.
 
-> [!abstract] 🖋️ Marcel Proust 
-> **《重現的時光》 (Le Temps retrouvé)**
-> ***
-> 🇫🇷 "Il n'en resterait bientôt plus que deux ou trois [génies], de ceux qui ne s'apaisent que quand ils ont trouvé entre deux objets, si différents qu'ils soient, l'anneau commun d'une vérité."
-> 
-> 💬 「在我，等它們一個接一個地被病魔擊倒以後，大概還會剩下兩三個生命力特別頑強的精靈，其中少不了有那麼個哲學家，他只有在兩件藝術品，在兩種感覺之間找出共同之處以後，才會感到快樂。」
+> Keep the first page quiet enough for the garden to speak.
 
+## Root Question
 
-> [!quote] **阿比·瓦爾堡 (Aby Warburg)｜《記憶女神圖譜》導言 (_Mnemosyne Einleitung_)**
->  "Die Bewußtseinsbildung als Distanzschaffung zwischen dem Ich und der Außenwelt darf man wohl als Grunddatum der menschlichen Zivilisationssetzung bezeichnen... der Zwischenraum als Denkraum." 
->  
->  「在那些相互關聯的圖像之間的『間隙』（Interval）中，存在著一種思索的空間。只有當圖像不再是單純的視覺印象，而是在與另一幅圖像的對比中顯現出『共同的能量痕跡』時，藝術史才真正開始。」
+How can reading become an instrument for rebuilding perception?
 
-> [!quote] **列維-斯特勞斯 (Claude Lévi-Strauss)｜《結構人類學》 (_Anthropologie structurale_)** 
-> "La méthode structurale consiste à chercher des relations invariantes sous des matériaux divers... pour découvrir la structure logique qui en est le fondement." 
-> 
-> 「如果我們想要理解這些分散、雜亂且表面上毫無邏輯的素材，我們就必須放棄對內容本身的迷戀，轉而去尋找那套控制這些素材進行相互轉換的『總公式』。這種理解的快樂，源於發現萬物背後那套永恆不變的數學美感。」
+Across Proust, language, syntax, memory, and structure, the question remains the same: what kind of attention can be trained here?
 
-> [!quote] **列維-斯特勞斯 (Claude Lévi-Strauss)｜《憂鬱的熱帶》 (_Tristes Tropiques_)** 
-> "Le sens n'est jamais dans l'objet isolé, mais dans les relations de réciprocité entre les objets... une vérité qui ne se trouve pas dans une lecture, mais dans la superposition de deux textes." 
-> 「意義從來不處於某個孤立的對象之中，而總是存在於對象之間的相互聯繫裡。真理不是在閱讀一本書時被發現的，而是在將兩本完全不同的書放在一起對比時，那道重合的剪影。」
+## Course Body
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
+The present body of the garden gathers around four active studies:
 
-  <a href="/01_Maps/OF-PROUST/" style="text-decoration: none; display: block;">
-    <div style="border: 1px solid var(--secondary); padding: 2rem; border-radius: 4px; position: relative; overflow: hidden;">
-      <div style="font-size: 0.8em; color: var(--gray); margin-bottom: 0.8rem; letter-spacing: 0.1em;">✦ 核心锚点 / THE CORE ANCHOR</div>
-      <div style="font-size: 1.8em; font-family: var(--headerFont); font-weight: bold; color: var(--secondary);">OF PROUST</div>
-      <div style="font-size: 0.95em; color: var(--dark); margin-top: 0.8rem; line-height: 1.6; max-width: 80%;">普鲁斯特是世界的半径，追忆是勘测万物的尺具。</div>
-    </div>
-  </a>
+- [[01_Maps/OF PROUST/index|OF PROUST]]
+- [[01_Maps/Active_Projects/法语阅读专项/index|法语阅读专项]]
+- [[01_Maps/Active_Projects/SLA-英语高阶/Index|SLA-英语高阶]]
+- [[01_Maps/The Bradbury Quartet/index|The Bradbury Quartet]]
 
-  <a href="/01_Maps/The-Bradbury-Quartet/" style="text-decoration: none; display: block;">
-    <div style="border: 1px solid var(--secondary); padding: 2rem; border-radius: 4px;">
-      <div style="font-size: 0.8em; color: var(--gray); margin-bottom: 0.8rem; letter-spacing: 0.1em;">✦ 百科全书式的阅读是一种生活方式 / THE 1000 NIGHTS</div>
-      <div style="font-size: 1.8em; font-family: var(--headerFont); font-weight: bold; color: var(--secondary);">布拉德雷四重奏 (The Bradbury Quartet)</div>
-      <div style="font-size: 0.95em; color: var(--dark); margin-top: 0.8rem; font-style: italic; opacity: 0.8;">“Read one poem, one short story, one essay, for the next 1,000 nights.”</div>
-    </div>
-  </a>
+Each study is a region, not a category. Each region may hold lessons, fragments, maps, protocols, and later forms not yet named.
 
-  </a>
+## Six Units
 
+These are not steps in a line. They are six doors into the same body.
 
-<div style="text-align: center; margin-top: 5rem; margin-bottom: 3rem;">
-  <a href="/Essays/" style="text-decoration: none; color: var(--gray); font-size: 0.85em; letter-spacing: 0.3em; text-transform: uppercase; border-bottom: 1px solid var(--gray);">
-    浏览随笔集 / Browse The Essays
-  </a>
-</div>
+1. Proust and involuntary memory
+2. French reading as close perception
+3. English syntax as pressure, logic, and form
+4. Bradbury as daily reading discipline
+5. Digital garden architecture as cognitive infrastructure
+6. Fragments, logs, and tendrils as future structure
 
+## Constellations
+
+Some notes already act as constellations: dense points from which other routes can be read.
+
+- [[01_Maps/OF PROUST/PR-1/PRS00-INTRO|PRS00-INTRO]]
+- [[01_Maps/OF PROUST/PR-1/PRS01-Vocab|The Vocabulary of Necessity]]
+- [[01_Maps/OF PROUST/PR-1/切片01-The Task of a Translator|The Task of a Translator]]
+- [[01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎|MOUDEL1：词汇与概念的生成引擎]]
+- [[01_Maps/Active_Projects/SLA-英语高阶/P1/PHRASE I_THE SYNTAX SNIPER|PHRASE I_THE SYNTAX SNIPER]]
+- [[01_Maps/The Bradbury Quartet/BO1/B01|B01]]
+
+## Reading Map
+
+The visible routes are provisional.
+
+- Proust close reading begins at [[01_Maps/OF PROUST/index|OF PROUST]] and moves into PR-1.
+- French reading begins at [[01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列|法语阅读：四维阵列]] and moves into M1.
+- English syntax begins at [[01_Maps/Active_Projects/SLA-英语高阶/英文教材编写总纲|英文教材编写总纲]] and moves into P1.
+- Bradbury begins at [[01_Maps/The Bradbury Quartet/index|The Bradbury Quartet]] and moves into BO1.
+
+Unmade routes remain plain for now:
+
+- Unit 02: Plate Tectonics & Geology
+- PRE0-INTRO
+- 浮士德博士
+- 雪山飞狐
+
+## Build Log
+
+The garden records its own construction.
+
+- [[Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南|Obsidian x Quartz x Git 搭建指南]]
+- [[Essays/01-为什么我们需要OB+GIT+静态网站|为什么我们需要 OB + Git + 静态网站]]
+- [[Essays/02-如何做 ：下载-安装GIT&Quartz|下载、安装 Git 与 Quartz]]
+- [[Essays/03-Quartz VS 常规网页--同与异|Quartz VS 常规网页]]
+- [[Essays/04-反向布鲁姆重构螺旋：自上而下&自下而上|反向布鲁姆重构螺旋]]
+
+## New Tendrils
+
+These are visible, but not yet settled.
+
+- [[字数大概]]
+- [[2026-03-25]]
+- [[Essays/碎片笔记的必要性-Flomo仍然然保留|碎片笔记的必要性]]
+- [[00_System/📂 Protocols/00-Philosophy|00-Philosophy]]
+
+## Current Rule
+
+Keep the atlas first.
+
+Do not force the garden into a finished curriculum. Let the maps show the body, let the body reveal the units, and let unfinished notes remain unfinished until their shape becomes necessary.
