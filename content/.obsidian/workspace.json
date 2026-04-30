@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac4a42f26bb3a7e",
+        "id": "7d0725bb2be2a25e",
         "type": "tabs",
         "children": [
           {
-            "id": "844b9c3004b40bf9",
+            "id": "2cdb45fc349583e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_System/Prompt Zone/11.md",
+                "file": "New-Tendrils.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11"
-            }
-          },
-          {
-            "id": "95e0eec0b1d6bc9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "字数大概.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "字数大概"
+              "title": "New-Tendrils"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,31 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "95e0eec0b1d6bc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Logs/Version-History.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Version-History"
             }
           },
           {
@@ -88,15 +87,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Area/language/法语",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "搜索"
             }
           },
           {
@@ -106,17 +105,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "c98b224067a0ae73",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "筆記本導覽器"
+              "title": "书签"
             }
           }
         ]
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "06-Logs/Current-Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-12 的反向連結"
+              "title": "Current-Week 的反向链接列表"
             }
           },
           {
@@ -158,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "06-Logs/Current-Week.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-12 的對外連結"
+              "title": "Current-Week 的出链列表"
             }
           },
           {
@@ -178,7 +167,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "標籤"
+              "title": "标签"
             }
           },
           {
@@ -192,7 +181,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "所有屬性"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -201,53 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "Build-Log.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-12 的大綱"
-            }
-          },
-          {
-            "id": "ac362bfabb62290b",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "955ddd16b184ed86",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "ae74cea750202443",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "277899542b3930d6",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Build-Log 的大纲"
             }
           },
           {
@@ -259,39 +208,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "05353e3e711fce91",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "e2899336bbe9d201",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "f14d2e641140e8ab",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -299,62 +218,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "bases:新建数据库": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "random-note:開始漫遊筆記": false,
-      "bases:建立新的 base": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "notebook-navigator:筆記本導覽器": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f0186bf89f272a0",
+  "active": "2cdb45fc349583e7",
   "lastOpenFiles": [
+    "Minimal-Reading-Packet.md",
+    "index.md",
+    "Course-Thesis.md",
+    "Build-Log.md",
+    "Reading-Map.md",
+    "Proustian-2.0.md",
+    "Warburg-Image-Memory.md",
+    "Six-Units.md",
+    "NotebookLM-Evidence-Packet-Plan.md",
+    "Question-Gradient.md",
+    "Literature-Importance-Ranking-V0.1.md",
+    "Levi-Strauss-Structure-Myth.md",
+    "Codex-Operating-Rules.md",
+    "Constellations.md",
     "字数大概.md",
-    "2026-03-25.md",
-    "00_System/Prompt Zone/自然习得提案.md",
-    "04_Journal/2026-03-25.md",
-    "00_System/Prompt Zone/布拉德雷四重奏.md",
-    "00_System/Prompt Zone/11.md",
-    "未命名.md",
-    "04_Journal/2026-03-16.md",
-    "01_Maps/Active_Projects/法语阅读专项/index.md",
-    "01_Maps/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
-    "04_Journal/2026-03-13.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.2EC附录.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/1.1.1EC 附录.md",
-    "04_Journal/2026-03-10.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/⚙️ M1U103：动词后缀的转换 (Verbs 35-40).md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🛹MOUDEL1：词汇与概念的生成引擎.md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🏛️ M1U101：名词后缀的平行迁移 (Nouns 01-18).md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🧬 M1U102：形容词后缀的形变折叠 (Adjectives 19-34).md",
-    "01_Maps/Active_Projects/法语阅读专项/M1/🌌 M1U110Chez 的多维映射 (The Dimensional Jump of Chez).md",
-    "01_Maps/The Bradbury Quartet/BO1/B01.md",
-    "01_Maps/The Bradbury Quartet/BO1/《非穷尽列举》 Inter Aliazh专题系列.md",
-    "00_System/Prompt Zone/普鲁斯特精读专用.md",
-    "00_System/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
-    "00_System/Prompt Zone/🧬LifeOS Kernel v2.2.Omni-Architect.md",
-    "00_System/📂 Legacy_Inbox/🔥 Level 0-The Anti-Vision.md",
-    "00_System/📂 Protocols/00-Philosophy.md",
-    "01_Maps/The Bradbury Quartet/BO1",
-    "01_Maps/Language Hub",
-    "01_Maps/Active_Projects/SLA-英语高阶/P1",
-    "🔗 M1U111",
-    "🎛️ M1U108",
-    "🌪️ M1U107",
-    "🕸️ M1U106",
-    "01_Maps/Active_Projects/法语阅读专项/M1",
-    "Asserts/proust-logo.png.jpg",
+    "New-Tendrils.md",
+    "Essays/越秀公园.md",
+    "Essays/碎片笔记的必要性-Flomo仍然然保留.md",
+    "Essays/广州 越秀区  最佳自烘焙肯尼亚.md",
+    "Essays/基于 Obsidian x Quartz x Git 的网状数字花园搭建指南.md",
+    "Essays/北归咖仓.md",
+    "Essays/index.md",
+    "Essays/Sensory鹅卵石咖啡Espresso.md",
+    "Essays/20260301-读书、吃.md",
+    "Essays/2.24日在广州越秀区.md",
+    "Essays/04-反向布鲁姆重构螺旋：自上而下&自下而上.md",
+    "Essays",
     "Asserts/Pasted image 20260219201554.png",
-    "01_Maps/Active_Projects/法语阅读专项",
-    "01_Maps/SLA-法语阅读专攻",
+    "Asserts/proust-logo.png.jpg",
+    "Asserts",
+    "99_Archive/Final/Study Guide  PROMPT.md.baiduyun.uploading.cfg",
+    "99_Archive/Final/NoteBookLM使用方案.md.baiduyun.uploading.cfg",
+    "99_Archive/Final/MVP1.0.md.baiduyun.uploading.cfg",
+    "99_Archive/Final/MVP.1.1.md.baiduyun.uploading.cfg",
+    "99_Archive/Final/Cognitive Architect最终流程 V.9.0.md.baiduyun.uploading.cfg",
+    "99_Archive/Final",
+    "99_Archive/92.baiduyun.uploading.cfg",
+    "99_Archive",
+    "Assets/Pasted image 20260219201554.png",
+    "Assets/proust-logo.png.jpg",
+    "01-Atlas/OF PROUST/未命名.canvas",
     "Pasted image 20260302000015.png",
     "Pasted image 20260226011610.png",
     "Pasted image 20260129012044.png",
@@ -362,8 +281,6 @@
     "Pasted image 20260128231609.png",
     "99_Archive/Final/未命名.canvas",
     "Pasted image 20260125231041.png",
-    "Pasted image 20260125224109.png",
-    "Pasted image 20260124011611.png",
     "03-Resources/Brain Storm.canvas",
     "Untitled.canvas"
   ]
