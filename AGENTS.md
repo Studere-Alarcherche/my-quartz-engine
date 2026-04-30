@@ -68,18 +68,20 @@ Do not restructure the whole repo.
 These root-level `content/` files are the current public-first V0.1 structure:
 
 - `content/index.md`
-- `content/Reading-Guide.md`
-- `content/Reading-Index.md`
-- `content/Literature-Question-Map-V0.1.md`
-- `content/Literature-Importance-Ranking-V0.1.md`
-- `content/Core-Question-Collection.md`
-- `content/Minimal-Entry-Packet-V0.1.md`
-- `content/NotebookLM-Evidence-Packet-Plan.md`
+- `content/Proustian-2.0.md`
+- `content/Course-Thesis.md`
+- `content/Six-Units.md`
+- `content/Reading-Map.md`
+- `content/Question-Gradient.md`
+- `content/Minimal-Reading-Packet.md`
 - `content/Build-Log.md`
-- `content/Reading-Madeleine.md`
-- `content/Reading-Vinteuil.md`
-- `content/Reading-Vermeer-Yellow-Wall.md`
-- `content/Reading-Salon.md`
+- `content/Constellations.md`
+- `content/New-Tendrils.md`
+- `content/Warburg-Image-Memory.md`
+- `content/Levi-Strauss-Structure-Myth.md`
+- `content/Codex-Operating-Rules.md`
+- `content/Literature-Importance-Ranking-V0.1.md`
+- `content/NotebookLM-Evidence-Packet-Plan.md`
 
 ## Keep But Do Not Treat As Public-First
 

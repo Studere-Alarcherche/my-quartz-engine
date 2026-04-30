@@ -19,18 +19,23 @@ This site enters Proust from the periphery through signs, music, images, space, 
 
 ## Core Entry
 
-- [[Reading-Guide|Reading Guide]]
-- [[Reading-Index|Reading Index]]
-- [[Literature-Question-Map-V0.1|Literature–Question Map V0.1]]
-- [[Literature-Importance-Ranking-V0.1|Literature Importance Ranking V0.1]]
-- [[Core-Question-Collection|Core Question Collection]]
-- [[Minimal-Entry-Packet-V0.1|Minimal Entry Packet V0.1]]
-- [[NotebookLM-Evidence-Packet-Plan|NotebookLM Evidence Packet Plan]]
+- [[Proustian-2.0|Proustian 2.0]]
+- [[Course-Thesis|Course Thesis]]
+- [[Six-Units|Six Units]]
+- [[Reading-Map|Reading Map]]
+- [[Question-Gradient|Question Gradient]]
+- [[Minimal-Reading-Packet|Minimal Reading Packet]]
+- [[Constellations|Constellations]]
+- [[New-Tendrils|New Tendrils]]
+- [[Warburg-Image-Memory|Warburg Image Memory]]
+- [[Levi-Strauss-Structure-Myth|Levi-Strauss Structure Myth]]
 - [[Build-Log|Build Log]]
+- [[Codex-Operating-Rules|Codex Operating Rules]]
+- [[Literature-Importance-Ranking-V0.1|Literature Importance Ranking V0.1]]
+- [[NotebookLM-Evidence-Packet-Plan|NotebookLM Evidence Packet Plan]]
 
-## Current Reading Pages
+## Current Reading Path
 
-- [[Reading-Madeleine|Madeleine]]
-- [[Reading-Vinteuil|Vinteuil]]
-- [[Reading-Vermeer-Yellow-Wall|Vermeer Yellow Wall]]
-- [[Reading-Salon|Salon]]
+- Start with [[Reading-Map|Reading Map]].
+- Use [[Question-Gradient|Question Gradient]] to choose a pressure point.
+- Open [[Minimal-Reading-Packet|Minimal Reading Packet]] for the first public packet.
