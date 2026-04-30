@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "06-Logs/Current-Week.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Current-Week"
             }
           }
         ]
@@ -83,18 +83,9 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "c98b224067a0ae73",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "笔记本导航器"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "06-Logs/Current-Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "Current-Week 的反向链接列表"
             }
           },
           {
@@ -133,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "06-Logs/Current-Week.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-12 的對外連結"
+              "title": "Current-Week 的出链列表"
             }
           },
           {
@@ -153,7 +144,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "標籤"
+              "title": "标签"
             }
           },
           {
@@ -167,7 +158,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "所有屬性"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -176,53 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02- Areas/Daily Notes/2026-01-12.md",
+                "file": "06-Logs/Current-Week.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-12 的大綱"
-            }
-          },
-          {
-            "id": "ac362bfabb62290b",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "955ddd16b184ed86",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "ae74cea750202443",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "277899542b3930d6",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "title": "Current-Week 的大纲"
             }
           },
           {
@@ -234,49 +185,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "05353e3e711fce91",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "e2899336bbe9d201",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "f14d2e641140e8ab",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "64150ef6b6cfbb96",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -293,42 +204,41 @@
       "random-note:开始漫游笔记": false,
       "bases:新建数据库": false,
       "templates:插入模板": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "notebook-navigator:笔记本导航器": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95e0eec0b1d6bc9c",
+  "active": "885665953be2ecd8",
   "lastOpenFiles": [
-    "00-HQ/📂 Legacy_Inbox/🌟Level 100- The Cognitive Athlete.md",
-    "00-HQ/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
-    "02-Course/Six-Units.md",
-    "04-Readings/Reading-Tasks.md",
-    "index.md",
-    "90-Essays.md",
-    "00-HQ/Dashboard.md",
-    "00-HQ/Command-Center.md",
-    "04-Readings/Source-Claims.md",
-    "04-Readings/French-Anchors.md",
-    "04-Readings/Bibliography.md",
+    "00-HQ/📂 Protocols/00-Philosophy.md",
+    "00-HQ/📂 Templates/Weekly Review.md",
+    "00-HQ/📂 Templates/PBL.md",
+    "00-HQ/📂 Templates/Monthly_Reset.md",
+    "00-HQ/📂 Templates/Daily Gaming.md",
+    "01-Atlas/Active_Projects/法语阅读专项/index.md",
+    "01-Atlas/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
+    "99-Archive/SLA-英语高阶/英文教材编写总纲.md",
+    "01-Atlas/Active_Projects/SLA-英语高阶/index.md",
+    "01-Atlas/Active_Projects/SLA-英语高阶/P1/Unit 01_Entropy & Thermodynamics — _Focus_Inversion.md",
+    "01-Atlas/Active_Projects/SLA-英语高阶/P1/PHRASE I_THE SYNTAX SNIPER.md",
+    "01-Atlas/Active_Projects/SLA-英语高阶/P1/B1-The Laws of Nature.md",
+    "01-Atlas/OF PROUST/PR-1/PRS01-Vocab.md",
+    "01-Atlas/OF PROUST/PR-1/PRS00-INTRO.md",
+    "01-Atlas/OF PROUST/PR-1/切片01-The Task of a Translator.md",
     "06-Logs/Version-History.md",
-    "01-Atlas/OF PROUST/未命名.canvas",
     "06-Logs/Current-Week.md",
     "06-Logs/Build-Log.md",
-    "06-Logs/2026-03-25.md",
-    "03-Modules/字数大概.md",
-    "03-Modules/Module-Extraction.md",
-    "02-Course/Syllabus-16-Weeks.md",
-    "02-Course/Syllabus-12-Weeks.md",
-    "01-Atlas/Reading-Map.md",
-    "01-Atlas/New-Tendrils.md",
-    "01-Atlas/Constellations.md",
-    "01-Atlas/Question-Gradient.md",
-    "01-Atlas/Course-Thesis.md",
-    "00-HQ/📂 Templates/Weekly Review.md",
-    "00-HQ/📂 Protocols/00-Philosophy.md",
+    "Assets/proust-logo.png.jpg",
+    "Assets/Pasted image 20260219201554.png",
+    "90-Essays.md",
+    "03-Modules/Visual-Module.md",
+    "03-Modules/Text-Module.md",
+    "03-Modules/Space-Sensory-Module.md",
+    "03-Modules/Music-Module.md",
+    "index.md",
+    "00-HQ/📂 Legacy_Inbox/🌟Level 100- The Cognitive Athlete.md",
+    "00-HQ/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
+    "01-Atlas/OF PROUST/未命名.canvas",
     "01_Maps/The Bradbury Quartet/BO1",
     "01_Maps/Language Hub",
     "01_Maps/Active_Projects/SLA-英语高阶/P1",
@@ -348,8 +258,6 @@
     "Pasted image 20260128231609.png",
     "99_Archive/Final/未命名.canvas",
     "Pasted image 20260125231041.png",
-    "Pasted image 20260125224109.png",
-    "Pasted image 20260124011611.png",
     "03-Resources/Brain Storm.canvas",
     "Untitled.canvas"
   ]
