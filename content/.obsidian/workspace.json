@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac4a42f26bb3a7e",
+        "id": "7d0725bb2be2a25e",
         "type": "tabs",
         "children": [
           {
-            "id": "95e0eec0b1d6bc9c",
+            "id": "2cdb45fc349583e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Logs/Current-Week.md",
+                "file": "Build-Log.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current-Week"
+              "title": "Build-Log"
             }
           }
         ]
@@ -58,6 +58,30 @@
             }
           },
           {
+            "id": "95e0eec0b1d6bc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Logs/Version-History.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Version-History"
+            }
+          },
+          {
             "id": "68fde63f85df2b64",
             "type": "leaf",
             "state": {
@@ -84,8 +108,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Logs/Current-Week.md",
+                "file": "Build-Log.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Current-Week 的大纲"
+              "title": "Build-Log 的大纲"
             }
           },
           {
@@ -187,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,36 +231,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "885665953be2ecd8",
+  "active": "2cdb45fc349583e7",
   "lastOpenFiles": [
-    "00-HQ/📂 Protocols/00-Philosophy.md",
-    "00-HQ/📂 Templates/Weekly Review.md",
-    "00-HQ/📂 Templates/PBL.md",
-    "00-HQ/📂 Templates/Monthly_Reset.md",
-    "00-HQ/📂 Templates/Daily Gaming.md",
-    "01-Atlas/Active_Projects/法语阅读专项/index.md",
-    "01-Atlas/Active_Projects/法语阅读专项/法语阅读：四维阵列.md",
-    "99-Archive/SLA-英语高阶/英文教材编写总纲.md",
-    "01-Atlas/Active_Projects/SLA-英语高阶/index.md",
-    "01-Atlas/Active_Projects/SLA-英语高阶/P1/Unit 01_Entropy & Thermodynamics — _Focus_Inversion.md",
-    "01-Atlas/Active_Projects/SLA-英语高阶/P1/PHRASE I_THE SYNTAX SNIPER.md",
-    "01-Atlas/Active_Projects/SLA-英语高阶/P1/B1-The Laws of Nature.md",
-    "01-Atlas/OF PROUST/PR-1/PRS01-Vocab.md",
-    "01-Atlas/OF PROUST/PR-1/PRS00-INTRO.md",
-    "01-Atlas/OF PROUST/PR-1/切片01-The Task of a Translator.md",
-    "06-Logs/Version-History.md",
+    "90-Essays.md",
+    "Assets/Pasted image 20260219201554.png",
+    "Assets/proust-logo.png.jpg",
+    "00-HQ/Dashboard.md",
+    "00-HQ/Proustian-2.0.md",
+    "02-Course/Syllabus-16-Weeks.md",
+    "02-Course/Syllabus-12-Weeks.md",
+    "05-Constellations/Warburg-Image-Memory.md",
+    "05-Constellations/Sign-Apprenticeship.md",
+    "05-Constellations/Self-Deception.md",
+    "05-Constellations/Levi-Strauss-Structure-Myth.md",
+    "05-Constellations/Involuntary-Memory.md",
     "06-Logs/Current-Week.md",
     "06-Logs/Build-Log.md",
-    "Assets/proust-logo.png.jpg",
-    "Assets/Pasted image 20260219201554.png",
-    "90-Essays.md",
-    "03-Modules/Visual-Module.md",
-    "03-Modules/Text-Module.md",
-    "03-Modules/Space-Sensory-Module.md",
-    "03-Modules/Music-Module.md",
+    "07-Aesthetic/Aesthetic-Principles.md",
+    "07-Aesthetic/Things-To-Delete.md",
+    "07-Aesthetic/Versions-I-Rejected.md",
+    "07-Aesthetic/Website-Design-Notes.md",
+    "Minimal-Entry-Packet-V0.1.md",
+    "Reading-Guide.md",
+    "Reading-Index.md",
+    "Reading-Madeleine.md",
+    "Reading-Salon.md",
+    "Reading-Vermeer-Yellow-Wall.md",
+    "Reading-Vinteuil.md",
     "index.md",
-    "00-HQ/📂 Legacy_Inbox/🌟Level 100- The Cognitive Athlete.md",
-    "00-HQ/Prompt Zone/闪念笔记 -直觉推演专用 Prompt.md",
+    "Core-Question-Collection.md",
+    "Build-Log.md",
     "01-Atlas/OF PROUST/未命名.canvas",
     "01_Maps/The Bradbury Quartet/BO1",
     "01_Maps/Language Hub",
